@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="90" height="160" tilewidth="8" tileheight="8" infinite="0" backgroundcolor="#373e48" nextlayerid="25" nextobjectid="120">
+ <tileset firstgid="1" source="Objects.tsx"/>
+ <group id="16" name="Фон">
+  <objectgroup id="20" name="Фон0">
+   <object id="111" gid="1" x="-52" y="1258.33" width="801" height="1305"/>
+  </objectgroup>
+  <objectgroup id="15" name="Фон1">
+   <object id="101" gid="2" x="-49.5" y="861.917" width="811.667" height="529"/>
+   <object id="102" gid="2" x="-10.6667" y="415.667" width="121" height="121"/>
+   <object id="103" gid="2" x="85.3333" y="338.333" width="121" height="121"/>
+   <object id="104" gid="2" x="134.667" y="390.333" width="121" height="121"/>
+   <object id="105" gid="2" x="245.333" y="366.333" width="121" height="121"/>
+   <object id="106" gid="2" x="346.667" y="419.667" width="121" height="121"/>
+   <object id="107" gid="2" x="452" y="444.667" width="121" height="121"/>
+   <object id="108" gid="2" x="556.667" y="366.333" width="121" height="121"/>
+  </objectgroup>
+  <objectgroup id="17" name="Фон2">
+   <object id="93" gid="3" x="-16" y="1131.33" width="797" height="514"/>
+   <object id="94" gid="3" x="58.6667" y="671.333" width="121" height="121"/>
+   <object id="95" gid="3" x="129.333" y="640.667" width="121" height="121"/>
+   <object id="96" gid="3" x="193.333" y="620.667" width="121" height="121"/>
+   <object id="97" gid="3" x="270.667" y="664.667" width="121" height="121"/>
+   <object id="98" gid="3" x="464" y="670" width="121" height="121"/>
+   <object id="99" gid="3" x="574.667" y="636.667" width="121" height="121"/>
+  </objectgroup>
+  <objectgroup id="18" name="Фон3">
+   <object id="77" gid="4" x="-54.5433" y="1309.84" width="879.891" height="490.215"/>
+   <object id="87" gid="4" x="-42.6667" y="829" width="121" height="121"/>
+   <object id="88" gid="4" x="68" y="911.667" width="121" height="121"/>
+   <object id="89" gid="4" x="142.667" y="871.667" width="121" height="121"/>
+   <object id="90" gid="4" x="257.333" y="919.667" width="121" height="121"/>
+   <object id="91" gid="4" x="501.333" y="861" width="121" height="121"/>
+   <object id="92" gid="4" x="606.667" y="881" width="121" height="121"/>
+  </objectgroup>
+  <objectgroup id="19" name="Трубы"/>
+ </group>
+ <objectgroup id="2" name="Пол">
+  <object id="2" gid="12" x="324.667" y="1157" width="405" height="45"/>
+  <object id="4" gid="12" x="-20" y="1157" width="405" height="45"/>
+ </objectgroup>
+ <objectgroup id="3" name="Стены">
+  <object id="7" gid="22" x="-27" y="1110" width="59" height="390"/>
+  <object id="14" gid="1073741846" x="747" y="720" width="59" height="390" rotation="180"/>
+  <object id="8" gid="22" x="-27" y="719" width="59" height="390"/>
+  <object id="13" gid="1073741846" x="747" y="329" width="59" height="390" rotation="180"/>
+  <object id="9" gid="22" x="-27" y="328" width="59" height="390"/>
+  <object id="12" gid="1073741846" x="747" y="-62" width="59" height="390" rotation="180"/>
+  <object id="10" gid="22" x="-27" y="-63" width="59" height="390"/>
+  <object id="11" gid="1073741846" x="747" y="-453" width="59" height="390" rotation="180"/>
+ </objectgroup>
+ <objectgroup id="13" name="Робот" offsetx="8" offsety="28">
+  <object id="74" name="Hero" gid="17" x="316.333" y="1078" width="71.3721" height="186"/>
+ </objectgroup>
+ <objectgroup id="14" name="Коробка">
+  <object id="75" name="Box" gid="6" x="300.333" y="398.667" width="122" height="85"/>
+ </objectgroup>
+ <objectgroup id="21" name="Враг">
+  <object id="112" gid="21" x="552.667" y="131.853" width="133" height="99.1864"/>
+  <object id="113" name="Enemy" gid="18" x="600.333" y="98.0437" width="75.5" height="92.877"/>
+ </objectgroup>
+ <group id="7" name="Gripper">
+  <objectgroup id="4" name="Балка_задний план">
+   <object id="51" gid="20" x="34.6667" y="182" width="390" height="37"/>
+   <object id="52" gid="20" x="297" y="182" width="390" height="37"/>
+  </objectgroup>
+  <objectgroup id="10" name="Веревка">
+   <object id="68" name="Rope" gid="10" x="341.333" y="264.333" width="12" height="68"/>
+  </objectgroup>
+  <objectgroup id="11" name="1">
+   <object id="72" name="GripperUpper" gid="11" x="306.667" y="216.333" width="88" height="60"/>
+  </objectgroup>
+  <objectgroup id="12" name="Захват">
+   <object id="73" name="Gripper" gid="9" x="306.917" y="348.917" width="89" height="96"/>
+  </objectgroup>
+  <objectgroup id="9" name="Балка_передний_план">
+   <object id="65" gid="26" x="34.67" y="176.667" width="390" height="43"/>
+   <object id="66" gid="28" x="261.667" y="176.667" width="390" height="43"/>
+   <object id="67" gid="24" x="637" y="176.67" width="50" height="43"/>
+  </objectgroup>
+ </group>
+ <group id="22" name="Controls">
+  <objectgroup id="23" name="Фон для кнопок">
+   <object id="114" gid="1" x="3" y="1279" width="121" height="121"/>
+   <object id="116" gid="1" x="597" y="1279" width="121" height="121"/>
+   <object id="115" gid="1" x="94" y="1279" width="600" height="121"/>
+  </objectgroup>
+  <objectgroup id="24" name="Кнопки">
+   <object id="118" name="ButtonRight" gid="8" x="515.333" y="1263.33" width="94" height="84"/>
+   <object id="119" name="ButtonLeft" gid="7" x="107.333" y="1263.33" width="94" height="84"/>
+  </objectgroup>
+ </group>
+</map>
