@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3163359"
-     inkscape:cx="-546.8747"
-     inkscape:cy="752.50457"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-417.28263"
+     inkscape:cy="149.36487"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -3681,8 +3681,8 @@
        ry="0.13725162" />
     <g
        id="g5576"
-       transform="translate(-231.30446,-27.148203)"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\RobotSmall.png"
+       transform="translate(-170.31355,-33.696307)"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Drawing\Objects\RobotSmall.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <g
@@ -7434,7 +7434,7 @@
     <g
        id="g5839"
        transform="translate(-236.19404,-64.61606)"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Table.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Drawing\Objects\RobotSmall.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <rect
@@ -13445,5 +13445,1113 @@
        inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Roof_empty.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <g
+       id="g4989-6"
+       style="display:inline"
+       transform="matrix(0.67907302,0.1407469,-0.1407469,0.67907302,-377.57558,-44.269548)"
+       inkscape:transform-center-x="2.5959639"
+       inkscape:transform-center-y="6.4123006">
+      <g
+         id="g4987-3"
+         transform="translate(-53.011161,-23.623512)"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           id="path4899-2"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.234838"
+           inkscape:transform-center-x="2.0852273"
+           inkscape:transform-center-y="2.0270417"
+           d="m 82.348084,173.57933 c -0.126793,0.002 -0.252785,0.0531 -0.3483,0.15193 l -3.759978,3.88916 c -0.191026,0.1976 -0.185708,0.51074 0.01189,0.70177 0.02063,0.0199 0.04276,0.0365 0.06563,0.0522 -0.127481,-0.19015 -0.110037,-0.44856 0.05581,-0.62012 l 3.759978,-3.88968 c 0.171067,-0.17695 0.439418,-0.19793 0.635619,-0.0636 -0.01935,-0.0289 -0.04165,-0.0565 -0.0677,-0.0816 -0.0988,-0.0955 -0.226155,-0.14219 -0.352949,-0.14004 z" />
+        <path
+           id="path4901-2"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.207887"
+           inkscape:transform-center-x="3.2369489"
+           inkscape:transform-center-y="4.0440948"
+           d="m 85.716509,164.52271 -5.724713,6.94479 c -0.29968,0.36356 -0.248319,0.89767 0.115237,1.19735 0.363556,0.29967 0.897665,0.24831 1.197343,-0.11524 l 5.695259,-6.90914 a 1.748463,1.748463 0 0 1 -1.283126,-1.11776 z" />
+        <rect
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.207887"
+           id="rect4903-0"
+           width="1.7008928"
+           height="11.433781"
+           x="-6.2634888"
+           y="175.47961"
+           ry="0.8504464"
+           inkscape:transform-center-x="-2.8887839"
+           inkscape:transform-center-y="4.988227"
+           transform="rotate(-29.606373)" />
+        <circle
+           style="fill:#808080;fill-opacity:1;stroke-width:0.155235"
+           id="circle4905-9"
+           cx="82.854446"
+           cy="155.4451"
+           r="3.2155788" />
+        <path
+           id="path4907-4"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.154348"
+           d="m 81.990279,152.19612 a 3.1789082,3.2155788 0 0 0 -3.169445,3.21531 3.1789082,3.2155788 0 0 0 3.178638,3.21582 3.1789082,3.2155788 0 0 0 0.523132,-0.0444 3.1789082,3.2155788 0 0 1 -2.655506,-3.17138 3.1789082,3.2155788 0 0 1 2.655506,-3.17138 3.1789082,3.2155788 0 0 0 -0.523132,-0.0439 3.1789082,3.2155788 0 0 0 -0.0092,0 z" />
+        <circle
+           style="fill:#808080;fill-opacity:1;stroke-width:0.0844086"
+           id="circle4909-0"
+           cx="87.361496"
+           cy="163.92996"
+           r="1.748463" />
+        <path
+           id="path4911-2"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.0839264"
+           d="m 86.89161,162.16336 a 1.7285234,1.7484629 0 0 0 -1.723377,1.74832 1.7285234,1.7484629 0 0 0 1.728377,1.74859 1.7285234,1.7484629 0 0 0 0.284451,-0.0241 1.7285234,1.7484629 0 0 1 -1.443924,-1.72443 1.7285234,1.7484629 0 0 1 1.443924,-1.72443 1.7285234,1.7484629 0 0 0 -0.284451,-0.0239 1.7285234,1.7484629 0 0 0 -0.005,0 z" />
+        <path
+           id="path4913-9"
+           style="fill:#666666;fill-opacity:1;stroke-width:0.207887"
+           inkscape:transform-center-x="-2.8887839"
+           inkscape:transform-center-y="4.988227"
+           d="m 85.009061,157.83164 c -0.428916,0.38731 -0.954283,0.65187 -1.520838,0.76585 l 2.498775,4.40305 c 0.328404,-0.4584 0.810477,-0.81886 1.374373,-0.81878 0.04069,-4e-5 0.08136,0.001 0.121957,0.004 z"
+           sodipodi:nodetypes="cccccc" />
+        <circle
+           style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.106915"
+           id="circle4915-1"
+           cx="82.949493"
+           cy="155.44063"
+           r="2.2146676" />
+        <path
+           id="path4917-8"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.104061"
+           d="m 83.148168,153.23051 a 2.0980163,2.2146676 0 0 0 -0.293723,0.0236 2.0980163,2.2146676 0 0 1 1.792762,2.19117 2.0980163,2.2146676 0 0 1 -1.792464,2.19084 2.0980163,2.2146676 0 0 0 0.305057,0.0236 2.0980163,2.2146676 0 0 0 2.098114,-2.21445 2.0980163,2.2146676 0 0 0 -2.098114,-2.21477 2.0980163,2.2146676 0 0 0 -0.01163,0 z" />
+        <path
+           id="path4919-8"
+           style="fill:#666666;fill-opacity:1;stroke-width:0.207887"
+           inkscape:transform-center-x="3.2369489"
+           inkscape:transform-center-y="4.0440948"
+           d="m 85.99202,164.83498 -5.632805,6.83303 c -0.299677,0.36355 -0.2478,0.89766 0.115756,1.19734 0.363556,0.29968 0.897146,0.24832 1.196826,-0.11524 l 5.834269,-7.07812 c -0.04812,0.004 -0.08459,2.3e-4 -0.135837,-0.0174 -0.622742,-0.0946 -1.046845,-0.35065 -1.372989,-0.8248 z"
+           sodipodi:nodetypes="ccsccccc" />
+        <circle
+           style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.0581348"
+           id="circle4921-7"
+           cx="87.413177"
+           cy="163.92754"
+           r="1.2042199" />
+        <path
+           id="path4923-8"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.0565829"
+           d="m 87.52121,162.72581 a 1.1407912,1.20422 0 0 0 -0.159711,0.0128 1.1407912,1.20422 0 0 1 0.97481,1.19144 1.1407912,1.20422 0 0 1 -0.974648,1.19126 1.1407912,1.20422 0 0 0 0.165874,0.0128 1.1407912,1.20422 0 0 0 1.140844,-1.2041 1.1407912,1.20422 0 0 0 -1.140844,-1.20427 1.1407912,1.20422 0 0 0 -0.0063,0 z" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.234838"
+           id="rect4925-9"
+           width="6.4019723"
+           height="0.9921875"
+           x="175.05769"
+           y="65.699669"
+           ry="0.49609375"
+           transform="rotate(44.551555)" />
+        <path
+           id="path4927-4"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.234838"
+           d="m 78.396028,169.91543 c -0.03049,0.0196 -0.05975,0.0418 -0.0863,0.0687 -0.19281,0.19585 -0.190169,0.50896 0.0057,0.70177 l 3.855061,3.79511 c 0.194873,0.19185 0.505629,0.18985 0.698667,-0.003 -0.190897,0.1229 -0.44608,0.10269 -0.61495,-0.0636 l -3.85558,-3.79563 c -0.195853,-0.19281 -0.19798,-0.5054 -0.0052,-0.70125 7.91e-4,-8e-4 0.0018,-0.001 0.0026,-0.002 z" />
+        <circle
+           style="fill:#808080;fill-opacity:1;stroke-width:0.0591147"
+           id="circle4929-9"
+           cx="80.902573"
+           cy="172.29242"
+           r="1.224519" />
+        <path
+           id="path4931-9"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.058777"
+           d="m 80.573493,171.0552 a 1.2105545,1.224519 0 0 0 -1.20695,1.22442 1.2105545,1.224519 0 0 0 1.210452,1.22461 1.2105545,1.224519 0 0 0 0.199212,-0.0169 1.2105545,1.224519 0 0 1 -1.011238,-1.20769 1.2105545,1.224519 0 0 1 1.011238,-1.20769 1.2105545,1.224519 0 0 0 -0.199212,-0.0167 1.2105545,1.224519 0 0 0 -0.0035,0 z" />
+        <circle
+           style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.0407141"
+           id="circle4933-5"
+           cx="80.938766"
+           cy="172.29071"
+           r="0.8433637" />
+        <path
+           id="path4935-7"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.0396273"
+           d="m 81.014428,171.44911 a 0.79894201,0.84336376 0 0 0 -0.111853,0.009 0.79894201,0.84336376 0 0 1 0.682699,0.83441 0.79894201,0.84336376 0 0 1 -0.682585,0.83429 0.79894201,0.84336376 0 0 0 0.116168,0.009 0.79894201,0.84336376 0 0 0 0.798979,-0.84328 0.79894201,0.84336376 0 0 0 -0.798979,-0.8434 0.79894201,0.84336376 0 0 0 -0.0044,0 z" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.234838"
+           id="rect4937-9"
+           width="6.4019723"
+           height="0.9921875"
+           x="67.348419"
+           y="-175.40804"
+           ry="0.49609375"
+           transform="rotate(134.03178)"
+           inkscape:transform-center-x="2.0852273"
+           inkscape:transform-center-y="2.0270417" />
+        <path
+           id="path4939-7"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.234838"
+           inkscape:transform-center-x="2.0852273"
+           inkscape:transform-center-y="2.0270417"
+           d="m 78.472676,169.72062 c -0.126793,0.002 -0.252785,0.0531 -0.3483,0.15193 l -3.759978,3.88916 c -0.191026,0.1976 -0.185708,0.51074 0.01189,0.70177 0.02063,0.0199 0.04276,0.0365 0.06563,0.0522 -0.127481,-0.19015 -0.110037,-0.44856 0.05581,-0.62012 l 3.759978,-3.88968 c 0.171067,-0.17695 0.439418,-0.19793 0.635619,-0.0636 -0.01935,-0.0289 -0.04165,-0.0565 -0.0677,-0.0816 -0.0988,-0.0955 -0.226155,-0.14219 -0.352949,-0.14004 z" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.234838"
+           id="rect4941-5"
+           width="6.4019723"
+           height="0.9921875"
+           x="67.294182"
+           y="-180.90706"
+           ry="0.49609375"
+           transform="rotate(134.06973)"
+           inkscape:transform-center-x="2.0865198"
+           inkscape:transform-center-y="2.0256545" />
+        <path
+           id="path4943-7"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.234838"
+           inkscape:transform-center-x="2.0852273"
+           inkscape:transform-center-y="2.0270417"
+           d="m 82.348084,173.57933 c -0.126793,0.002 -0.252785,0.0531 -0.3483,0.15193 l -3.759978,3.88916 c -0.191026,0.1976 -0.185708,0.51074 0.01189,0.70177 0.02063,0.0199 0.04276,0.0365 0.06563,0.0522 -0.127481,-0.19015 -0.110037,-0.44856 0.05581,-0.62012 l 3.759978,-3.88968 c 0.171067,-0.17695 0.439418,-0.19793 0.635619,-0.0636 -0.01935,-0.0289 -0.04165,-0.0565 -0.0677,-0.0816 -0.0988,-0.0955 -0.226155,-0.14219 -0.352949,-0.14004 z" />
+        <path
+           id="path4945-8"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.207887"
+           inkscape:transform-center-x="3.2369489"
+           inkscape:transform-center-y="4.0440948"
+           d="m 85.716509,164.52271 -5.724713,6.94479 c -0.29968,0.36356 -0.248319,0.89767 0.115237,1.19735 0.363556,0.29967 0.897665,0.24831 1.197343,-0.11524 l 5.695259,-6.90914 a 1.748463,1.748463 0 0 1 -1.283126,-1.11776 z" />
+        <rect
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.207887"
+           id="rect4947-1"
+           width="1.7008928"
+           height="11.433781"
+           x="-6.2634888"
+           y="175.47961"
+           ry="0.8504464"
+           inkscape:transform-center-x="-2.8887839"
+           inkscape:transform-center-y="4.988227"
+           transform="rotate(-29.606373)" />
+        <circle
+           style="fill:#808080;fill-opacity:1;stroke-width:0.155235"
+           id="circle4949-3"
+           cx="82.854446"
+           cy="155.4451"
+           r="3.2155788" />
+        <path
+           id="path4951-1"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.154348"
+           d="m 81.990279,152.19612 a 3.1789082,3.2155788 0 0 0 -3.169445,3.21531 3.1789082,3.2155788 0 0 0 3.178638,3.21582 3.1789082,3.2155788 0 0 0 0.523132,-0.0444 3.1789082,3.2155788 0 0 1 -2.655506,-3.17138 3.1789082,3.2155788 0 0 1 2.655506,-3.17138 3.1789082,3.2155788 0 0 0 -0.523132,-0.0439 3.1789082,3.2155788 0 0 0 -0.0092,0 z" />
+        <circle
+           style="fill:#808080;fill-opacity:1;stroke-width:0.0844086"
+           id="circle4953-4"
+           cx="87.361496"
+           cy="163.92996"
+           r="1.748463" />
+        <path
+           id="path4955-6"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.0839264"
+           d="m 86.89161,162.16336 a 1.7285234,1.7484629 0 0 0 -1.723377,1.74832 1.7285234,1.7484629 0 0 0 1.728377,1.74859 1.7285234,1.7484629 0 0 0 0.284451,-0.0241 1.7285234,1.7484629 0 0 1 -1.443924,-1.72443 1.7285234,1.7484629 0 0 1 1.443924,-1.72443 1.7285234,1.7484629 0 0 0 -0.284451,-0.0239 1.7285234,1.7484629 0 0 0 -0.005,0 z" />
+        <path
+           id="path4957-3"
+           style="fill:#666666;fill-opacity:1;stroke-width:0.207887"
+           inkscape:transform-center-x="-2.8887839"
+           inkscape:transform-center-y="4.988227"
+           d="m 85.009061,157.83164 c -0.428916,0.38731 -0.954283,0.65187 -1.520838,0.76585 l 2.498775,4.40305 c 0.328404,-0.4584 0.810477,-0.81886 1.374373,-0.81878 0.04069,-4e-5 0.08136,0.001 0.121957,0.004 z"
+           sodipodi:nodetypes="cccccc" />
+        <circle
+           style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.106915"
+           id="circle4959-8"
+           cx="82.949493"
+           cy="155.44063"
+           r="2.2146676" />
+        <path
+           id="path4961-6"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.104061"
+           d="m 83.148168,153.23051 a 2.0980163,2.2146676 0 0 0 -0.293723,0.0236 2.0980163,2.2146676 0 0 1 1.792762,2.19117 2.0980163,2.2146676 0 0 1 -1.792464,2.19084 2.0980163,2.2146676 0 0 0 0.305057,0.0236 2.0980163,2.2146676 0 0 0 2.098114,-2.21445 2.0980163,2.2146676 0 0 0 -2.098114,-2.21477 2.0980163,2.2146676 0 0 0 -0.01163,0 z" />
+        <path
+           id="path4963-6"
+           style="fill:#666666;fill-opacity:1;stroke-width:0.207887"
+           inkscape:transform-center-x="3.2369489"
+           inkscape:transform-center-y="4.0440948"
+           d="m 85.99202,164.83498 -5.632805,6.83303 c -0.299677,0.36355 -0.2478,0.89766 0.115756,1.19734 0.363556,0.29968 0.897146,0.24832 1.196826,-0.11524 l 5.834269,-7.07812 c -0.04812,0.004 -0.08459,2.3e-4 -0.135837,-0.0174 -0.622742,-0.0946 -1.046845,-0.35065 -1.372989,-0.8248 z"
+           sodipodi:nodetypes="ccsccccc" />
+        <circle
+           style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.0581348"
+           id="circle4965-6"
+           cx="87.413177"
+           cy="163.92754"
+           r="1.2042199" />
+        <path
+           id="path4967-0"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.0565829"
+           d="m 87.52121,162.72581 a 1.1407912,1.20422 0 0 0 -0.159711,0.0128 1.1407912,1.20422 0 0 1 0.97481,1.19144 1.1407912,1.20422 0 0 1 -0.974648,1.19126 1.1407912,1.20422 0 0 0 0.165874,0.0128 1.1407912,1.20422 0 0 0 1.140844,-1.2041 1.1407912,1.20422 0 0 0 -1.140844,-1.20427 1.1407912,1.20422 0 0 0 -0.0063,0 z" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.234838"
+           id="rect4969-5"
+           width="6.4019723"
+           height="0.9921875"
+           x="175.05769"
+           y="65.699669"
+           ry="0.49609375"
+           transform="rotate(44.551555)" />
+        <path
+           id="path4971-6"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.234838"
+           d="m 78.396028,169.91543 c -0.03049,0.0196 -0.05975,0.0418 -0.0863,0.0687 -0.19281,0.19585 -0.190169,0.50896 0.0057,0.70177 l 3.855061,3.79511 c 0.194873,0.19185 0.505629,0.18985 0.698667,-0.003 -0.190897,0.1229 -0.44608,0.10269 -0.61495,-0.0636 l -3.85558,-3.79563 c -0.195853,-0.19281 -0.19798,-0.5054 -0.0052,-0.70125 7.91e-4,-8e-4 0.0018,-0.001 0.0026,-0.002 z" />
+        <circle
+           style="fill:#808080;fill-opacity:1;stroke-width:0.0591147"
+           id="circle4973-1"
+           cx="80.902573"
+           cy="172.29242"
+           r="1.224519" />
+        <path
+           id="path4975-6"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.058777"
+           d="m 80.573493,171.0552 a 1.2105545,1.224519 0 0 0 -1.20695,1.22442 1.2105545,1.224519 0 0 0 1.210452,1.22461 1.2105545,1.224519 0 0 0 0.199212,-0.0169 1.2105545,1.224519 0 0 1 -1.011238,-1.20769 1.2105545,1.224519 0 0 1 1.011238,-1.20769 1.2105545,1.224519 0 0 0 -0.199212,-0.0167 1.2105545,1.224519 0 0 0 -0.0035,0 z" />
+        <circle
+           style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.0407141"
+           id="circle4977-4"
+           cx="80.938766"
+           cy="172.29071"
+           r="0.8433637" />
+        <path
+           id="path4979-0"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.0396273"
+           d="m 81.014428,171.44911 a 0.79894201,0.84336376 0 0 0 -0.111853,0.009 0.79894201,0.84336376 0 0 1 0.682699,0.83441 0.79894201,0.84336376 0 0 1 -0.682585,0.83429 0.79894201,0.84336376 0 0 0 0.116168,0.009 0.79894201,0.84336376 0 0 0 0.798979,-0.84328 0.79894201,0.84336376 0 0 0 -0.798979,-0.8434 0.79894201,0.84336376 0 0 0 -0.0044,0 z" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.234838"
+           id="rect4981-9"
+           width="6.4019723"
+           height="0.9921875"
+           x="67.348419"
+           y="-175.40804"
+           ry="0.49609375"
+           transform="rotate(134.03178)"
+           inkscape:transform-center-x="2.0852273"
+           inkscape:transform-center-y="2.0270417" />
+        <path
+           id="path4983-8"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.234838"
+           inkscape:transform-center-x="2.0852273"
+           inkscape:transform-center-y="2.0270417"
+           d="m 78.472676,169.72062 c -0.126793,0.002 -0.252785,0.0531 -0.3483,0.15193 l -3.759978,3.88916 c -0.191026,0.1976 -0.185708,0.51074 0.01189,0.70177 0.02063,0.0199 0.04276,0.0365 0.06563,0.0522 -0.127481,-0.19015 -0.110037,-0.44856 0.05581,-0.62012 l 3.759978,-3.88968 c 0.171067,-0.17695 0.439418,-0.19793 0.635619,-0.0636 -0.01935,-0.0289 -0.04165,-0.0565 -0.0677,-0.0816 -0.0988,-0.0955 -0.226155,-0.14219 -0.352949,-0.14004 z" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.234838"
+           id="rect4985-6"
+           width="6.4019723"
+           height="0.9921875"
+           x="67.294182"
+           y="-180.90706"
+           ry="0.49609375"
+           transform="rotate(134.06973)"
+           inkscape:transform-center-x="2.0865198"
+           inkscape:transform-center-y="2.0256545" />
+      </g>
+    </g>
+    <rect
+       style="display:inline;fill:#333333;fill-opacity:1;stroke-width:0.217165"
+       id="rect4531-6"
+       width="17.706606"
+       height="9.6217031"
+       x="-352.25485"
+       y="43.307549"
+       ry="2.7768178"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Animations\EnemyRobot\Back.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;fill:#4d4d4d;fill-opacity:1;stroke-width:0.140247"
+       id="rect4533-3"
+       width="7.384841"
+       height="9.6217031"
+       x="-341.93307"
+       y="43.307549"
+       ry="2.7768178"
+       inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g4830"
+       transform="translate(-9.7091201,-4.5118852)"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Animations\EnemyRobot\Eye.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="display:inline;fill:#333333;fill-opacity:1;stroke-width:0.305881"
+         id="rect4409-7"
+         width="6.8268852"
+         height="6.0151882"
+         x="-363.05252"
+         y="33.621399"
+         ry="3.0075941"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#d35f5f;stroke-width:0.276073"
+         id="circle4411-2"
+         cx="-360.16544"
+         cy="36.588593"
+         r="2.7607281"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path4413-8"
+         style="display:inline;fill:#c83737;stroke-width:0.276073"
+         d="m -360.16535,33.827936 a 2.7607283,2.7607283 0 0 0 -2.76073,2.760729 2.7607283,2.7607283 0 0 0 2.76073,2.760728 2.7607283,2.7607283 0 0 0 0.50531,-0.04684 2.7607283,2.7607283 0 0 1 -2.25641,-2.713897 2.7607283,2.7607283 0 0 1 2.25641,-2.713896 2.7607283,2.7607283 0 0 0 -0.50531,-0.04684 z"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g4835"
+       transform="translate(-15.820154,2.6557299)">
+      <rect
+         style="display:inline;fill:#333333;fill-opacity:1;stroke-width:0.305881"
+         id="rect4415-6"
+         width="6.8268852"
+         height="6.0151882"
+         x="-356.11859"
+         y="33.621399"
+         ry="3.0075941"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#d35f5f;stroke-width:0.276073"
+         id="circle4417-2"
+         cx="-353.23151"
+         cy="36.588593"
+         r="2.7607281"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path4419-7"
+         style="display:inline;fill:#c83737;stroke-width:0.276073"
+         d="m -353.23144,33.827936 a 2.7607283,2.7607283 0 0 0 -2.76073,2.760729 2.7607283,2.7607283 0 0 0 2.76073,2.760728 2.7607283,2.7607283 0 0 0 0.50531,-0.04684 2.7607283,2.7607283 0 0 1 -2.2564,-2.713897 2.7607283,2.7607283 0 0 1 2.2564,-2.713896 2.7607283,2.7607283 0 0 0 -0.50531,-0.04684 z"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g4825"
+       transform="translate(2.5129487,-16.334167)"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Animations\EnemyRobot\g4825.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="display:inline;fill:#ff9955;stroke-width:0.0753562"
+         id="rect4393-8"
+         width="17.364149"
+         height="1.8924755"
+         x="-367.82098"
+         y="31.551674"
+         ry="0.94623774"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff9955;stroke-width:0.197239"
+         id="rect4401-4"
+         width="22.178059"
+         height="10.15093"
+         x="-361.66669"
+         y="23.293221"
+         ry="0.93667847"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ffb380;fill-opacity:1;stroke-width:0.13546"
+         id="rect4423-8"
+         width="10.460688"
+         height="10.15093"
+         x="-349.88251"
+         y="23.293221"
+         ry="0.81971824"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff7f2a;fill-opacity:1;stroke-width:0.100414"
+         id="rect4425-2"
+         width="0.85044646"
+         height="6.4543748"
+         x="-359.84531"
+         y="24.962585"
+         ry="0.35314345"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff7f2a;fill-opacity:1;stroke-width:0.100414"
+         id="rect4427-7"
+         width="0.85044646"
+         height="6.4543748"
+         x="-358.25778"
+         y="24.962585"
+         ry="0.35314345"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff7f2a;fill-opacity:1;stroke-width:0.100414"
+         id="rect4429-9"
+         width="0.85044646"
+         height="6.4543748"
+         x="-356.67029"
+         y="24.962585"
+         ry="0.35314345"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff7f2a;fill-opacity:1;stroke-width:0.100414"
+         id="rect4431-7"
+         width="0.85044646"
+         height="6.4543748"
+         x="-356.67029"
+         y="24.962585"
+         ry="0.35314345"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff7f2a;fill-opacity:1;stroke-width:0.100414"
+         id="rect4433-4"
+         width="0.85044646"
+         height="6.4543748"
+         x="-355.08279"
+         y="24.962585"
+         ry="0.35314345"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff7f2a;fill-opacity:1;stroke-width:0.100414"
+         id="rect4435-5"
+         width="0.85044646"
+         height="6.4543748"
+         x="-353.4953"
+         y="24.962585"
+         ry="0.35314345"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff7f2a;fill-opacity:1;stroke-width:0.100414"
+         id="rect4437-7"
+         width="0.85044646"
+         height="6.4543748"
+         x="-351.90781"
+         y="24.962585"
+         ry="0.35314345"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff9955;fill-opacity:1;stroke-width:0.100414"
+         id="rect4439-0"
+         width="0.85044646"
+         height="6.4543748"
+         x="-348.20361"
+         y="24.962585"
+         ry="0.35314345"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff9955;fill-opacity:1;stroke-width:0.100414"
+         id="rect4441-1"
+         width="0.85044646"
+         height="6.4543748"
+         x="-346.61609"
+         y="24.962585"
+         ry="0.35314345"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff9955;fill-opacity:1;stroke-width:0.100414"
+         id="rect4443-8"
+         width="0.85044646"
+         height="6.4543748"
+         x="-345.02859"
+         y="24.962585"
+         ry="0.35314345"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff9955;fill-opacity:1;stroke-width:0.100414"
+         id="rect4445-4"
+         width="0.85044646"
+         height="6.4543748"
+         x="-343.4411"
+         y="24.962585"
+         ry="0.35314345"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff9955;fill-opacity:1;stroke-width:0.100414"
+         id="rect4447-9"
+         width="0.85044646"
+         height="6.4543748"
+         x="-343.4411"
+         y="24.962585"
+         ry="0.35314345"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#ff9955;fill-opacity:1;stroke-width:0.100414"
+         id="rect4449-6"
+         width="0.85044646"
+         height="6.4543748"
+         x="-341.85361"
+         y="24.962585"
+         ry="0.35314345"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g4854"
+       transform="translate(2.912736,0.74246212)"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Animations\EnemyRobot\Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="display:inline;fill:#4d4d4d;stroke-width:0.243386"
+         id="rect4395-0"
+         width="20.127232"
+         height="17.031471"
+         x="-361.85059"
+         y="20.127914"
+         ry="2.8476803"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#333333;fill-opacity:1;stroke-width:0.0710676"
+         id="rect4397-4"
+         width="0.85044646"
+         height="3.2330151"
+         x="-359.9725"
+         y="31.815926"
+         ry="0.42522323"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.167385"
+         id="rect4399-4"
+         width="9.5198326"
+         height="17.031471"
+         x="-351.24319"
+         y="20.127914"
+         ry="2.8476803"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#333333;fill-opacity:1;stroke-width:0.0710676"
+         id="rect4403-8"
+         width="0.85044646"
+         height="3.2330151"
+         x="-358.38501"
+         y="31.815926"
+         ry="0.42522323"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#333333;fill-opacity:1;stroke-width:0.0710676"
+         id="rect4405-7"
+         width="0.85044646"
+         height="3.2330151"
+         x="-356.79749"
+         y="31.815926"
+         ry="0.42522323"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#333333;fill-opacity:1;stroke-width:0.0710676"
+         id="rect4407-6"
+         width="0.85044646"
+         height="3.2330151"
+         x="-355.20999"
+         y="31.815926"
+         ry="0.42522323"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#333333;fill-opacity:1;stroke-width:0.0710676"
+         id="rect4421-2"
+         width="0.85044646"
+         height="3.2330151"
+         x="-355.20999"
+         y="31.815926"
+         ry="0.42522323"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.0852496"
+         id="rect4464-6"
+         width="6.6507211"
+         height="6.3236046"
+         x="-349.5285"
+         y="22.636475"
+         ry="0.49037713"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#4d4d4d;fill-opacity:1;stroke-width:0.0459721"
+         id="rect4466-9"
+         width="3.5865026"
+         height="3.4101"
+         x="-344.95905"
+         y="30.920433"
+         ry="0.46929219"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;opacity:0.996;fill:#999999;fill-opacity:1;stroke-width:2.119;stroke-linecap:round"
+         id="path4468-7"
+         cx="-344.02396"
+         cy="27.907898"
+         r="0.59695613" />
+      <path
+         id="circle4480-4"
+         style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:2.119;stroke-linecap:round"
+         d="m -344.02596,27.31101 a 0.59695614,0.59695614 0 0 0 -0.5948,0.59686 0.59695614,0.59695614 0 0 0 0.59687,0.596863 0.59695614,0.59695614 0 0 0 0.0827,-0.0057 0.59695614,0.59695614 0 0 1 -0.52607,-0.592728 0.59695614,0.59695614 0 0 1 0.51521,-0.59118 0.59695614,0.59695614 0 0 0 -0.0718,-0.0041 0.59695614,0.59695614 0 0 0 -0.002,0 z" />
+      <circle
+         style="display:inline;opacity:0.996;fill:#999999;fill-opacity:1;stroke-width:2.119;stroke-linecap:round"
+         id="circle4489-2"
+         cx="-348.25729"
+         cy="27.907898"
+         r="0.59695613" />
+      <path
+         id="path4491-1"
+         style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:2.119;stroke-linecap:round"
+         d="m -348.2593,27.31101 a 0.59695614,0.59695614 0 0 0 -0.59479,0.59686 0.59695614,0.59695614 0 0 0 0.59686,0.596863 0.59695614,0.59695614 0 0 0 0.0827,-0.0057 0.59695614,0.59695614 0 0 1 -0.52606,-0.592728 0.59695614,0.59695614 0 0 1 0.51521,-0.59118 0.59695614,0.59695614 0 0 0 -0.0718,-0.0041 0.59695614,0.59695614 0 0 0 -0.002,0 z" />
+      <circle
+         style="display:inline;opacity:0.996;fill:#999999;fill-opacity:1;stroke-width:1.34236;stroke-linecap:round"
+         id="circle4493-6"
+         cx="-344.25601"
+         cy="31.550995"
+         r="0.3781653" />
+      <path
+         id="path4495-9"
+         style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:1.34236;stroke-linecap:round"
+         d="m -344.2573,31.172871 a 0.37816532,0.37816532 0 0 0 -0.37679,0.378105 0.37816532,0.37816532 0 0 0 0.3781,0.378106 0.37816532,0.37816532 0 0 0 0.0524,-0.0036 0.37816532,0.37816532 0 0 1 -0.33326,-0.375487 0.37816532,0.37816532 0 0 1 0.32639,-0.374506 0.37816532,0.37816532 0 0 0 -0.0455,-0.0026 0.37816532,0.37816532 0 0 0 -10e-4,0 z" />
+      <circle
+         style="display:inline;opacity:0.996;fill:#999999;fill-opacity:1;stroke-width:1.34236;stroke-linecap:round"
+         id="circle4501-2"
+         cx="-344.25601"
+         cy="33.667664"
+         r="0.3781653" />
+      <path
+         id="path4503-6"
+         style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:1.34236;stroke-linecap:round"
+         d="m -344.2573,33.289539 a 0.37816532,0.37816532 0 0 0 -0.37679,0.378105 0.37816532,0.37816532 0 0 0 0.3781,0.378106 0.37816532,0.37816532 0 0 0 0.0524,-0.0036 0.37816532,0.37816532 0 0 1 -0.33326,-0.375487 0.37816532,0.37816532 0 0 1 0.32639,-0.374506 0.37816532,0.37816532 0 0 0 -0.0455,-0.0026 0.37816532,0.37816532 0 0 0 -10e-4,0 z" />
+    </g>
+    <rect
+       style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.0577715"
+       id="rect4535-8"
+       width="4.5070291"
+       height="4.2853503"
+       x="-340.26001"
+       y="45.077461"
+       ry="0.33231646"
+       inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="display:inline;opacity:0.996;fill:#999999;fill-opacity:1;stroke-width:1.43599;stroke-linecap:round"
+       id="circle4537-1"
+       cx="-336.52972"
+       cy="48.649773"
+       r="0.40454242" />
+    <path
+       id="path4539-9"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:1.43599;stroke-linecap:round"
+       d="m -336.53106,48.245283 a 0.40454241,0.40454241 0 0 0 -0.40308,0.404477 0.40454241,0.40454241 0 0 0 0.40448,0.404479 0.40454241,0.40454241 0 0 0 0.056,-0.0039 0.40454241,0.40454241 0 0 1 -0.3565,-0.401677 0.40454241,0.40454241 0 0 1 0.34914,-0.400628 0.40454241,0.40454241 0 0 0 -0.0487,-0.0028 0.40454241,0.40454241 0 0 0 -10e-4,0 z" />
+    <circle
+       style="display:inline;opacity:0.996;fill:#999999;fill-opacity:1;stroke-width:1.43599;stroke-linecap:round"
+       id="circle4541-4"
+       cx="-339.39856"
+       cy="48.649773"
+       r="0.40454242" />
+    <path
+       id="path4543-0"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:1.43599;stroke-linecap:round"
+       d="m -339.39989,48.245283 a 0.40454241,0.40454241 0 0 0 -0.40308,0.404477 0.40454241,0.40454241 0 0 0 0.40448,0.404479 0.40454241,0.40454241 0 0 0 0.056,-0.0039 0.40454241,0.40454241 0 0 1 -0.3565,-0.401677 0.40454241,0.40454241 0 0 1 0.34914,-0.400628 0.40454241,0.40454241 0 0 0 -0.0487,-0.0028 0.40454241,0.40454241 0 0 0 -10e-4,0 z" />
+    <circle
+       style="display:inline;opacity:0.996;fill:#999999;fill-opacity:1;stroke-width:1.43599;stroke-linecap:round"
+       id="circle4545-1"
+       cx="-336.52972"
+       cy="48.649773"
+       r="0.40454242" />
+    <path
+       id="path4547-2"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:1.43599;stroke-linecap:round"
+       d="m -336.53106,48.245283 a 0.40454241,0.40454241 0 0 0 -0.40308,0.404477 0.40454241,0.40454241 0 0 0 0.40448,0.404479 0.40454241,0.40454241 0 0 0 0.056,-0.0039 0.40454241,0.40454241 0 0 1 -0.3565,-0.401677 0.40454241,0.40454241 0 0 1 0.34914,-0.400628 0.40454241,0.40454241 0 0 0 -0.0487,-0.0028 0.40454241,0.40454241 0 0 0 -10e-4,0 z" />
+    <circle
+       style="display:inline;opacity:0.996;fill:#999999;fill-opacity:1;stroke-width:1.43599;stroke-linecap:round"
+       id="circle4549-3"
+       cx="-336.52972"
+       cy="46.003937"
+       r="0.40454242" />
+    <path
+       id="path4551-4"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:1.43599;stroke-linecap:round"
+       d="m -336.53106,45.599448 a 0.40454241,0.40454241 0 0 0 -0.40308,0.404477 0.40454241,0.40454241 0 0 0 0.40448,0.404479 0.40454241,0.40454241 0 0 0 0.056,-0.0039 0.40454241,0.40454241 0 0 1 -0.3565,-0.401677 0.40454241,0.40454241 0 0 1 0.34914,-0.400628 0.40454241,0.40454241 0 0 0 -0.0487,-0.0028 0.40454241,0.40454241 0 0 0 -10e-4,0 z" />
+    <circle
+       style="display:inline;opacity:0.996;fill:#999999;fill-opacity:1;stroke-width:1.43599;stroke-linecap:round"
+       id="circle4579-4"
+       cx="-339.39856"
+       cy="46.003937"
+       r="0.40454242" />
+    <path
+       id="path4581-9"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:1.43599;stroke-linecap:round"
+       d="m -339.39989,45.599448 a 0.40454241,0.40454241 0 0 0 -0.40308,0.404477 0.40454241,0.40454241 0 0 0 0.40448,0.404479 0.40454241,0.40454241 0 0 0 0.056,-0.0039 0.40454241,0.40454241 0 0 1 -0.3565,-0.401677 0.40454241,0.40454241 0 0 1 0.34914,-0.400628 0.40454241,0.40454241 0 0 0 -0.0487,-0.0028 0.40454241,0.40454241 0 0 0 -10e-4,0 z" />
+    <g
+       id="g4711-1"
+       style="display:inline"
+       transform="matrix(0.69350548,0,0,0.69350548,-346.94373,-40.170159)"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Animations\EnemyRobot\Hand.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g4709-0"
+         transform="translate(-53.011161,-23.623512)"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           id="path4621-2"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.234838"
+           inkscape:transform-center-x="2.0852273"
+           inkscape:transform-center-y="2.0270417"
+           d="m 82.348084,173.57933 c -0.126793,0.002 -0.252785,0.0531 -0.3483,0.15193 l -3.759978,3.88916 c -0.191026,0.1976 -0.185708,0.51074 0.01189,0.70177 0.02063,0.0199 0.04276,0.0365 0.06563,0.0522 -0.127481,-0.19015 -0.110037,-0.44856 0.05581,-0.62012 l 3.759978,-3.88968 c 0.171067,-0.17695 0.439418,-0.19793 0.635619,-0.0636 -0.01935,-0.0289 -0.04165,-0.0565 -0.0677,-0.0816 -0.0988,-0.0955 -0.226155,-0.14219 -0.352949,-0.14004 z" />
+        <path
+           id="path4623-8"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.207887"
+           inkscape:transform-center-x="3.2369489"
+           inkscape:transform-center-y="4.0440948"
+           d="m 85.716509,164.52271 -5.724713,6.94479 c -0.29968,0.36356 -0.248319,0.89767 0.115237,1.19735 0.363556,0.29967 0.897665,0.24831 1.197343,-0.11524 l 5.695259,-6.90914 a 1.748463,1.748463 0 0 1 -1.283126,-1.11776 z" />
+        <rect
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.207887"
+           id="rect4625-6"
+           width="1.7008928"
+           height="11.433781"
+           x="-6.2634888"
+           y="175.47961"
+           ry="0.8504464"
+           inkscape:transform-center-x="-2.8887839"
+           inkscape:transform-center-y="4.988227"
+           transform="rotate(-29.606373)" />
+        <circle
+           style="fill:#808080;fill-opacity:1;stroke-width:0.155235"
+           id="circle4627-9"
+           cx="82.854446"
+           cy="155.4451"
+           r="3.2155788" />
+        <path
+           id="path4629-8"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.154348"
+           d="m 81.990279,152.19612 a 3.1789082,3.2155788 0 0 0 -3.169445,3.21531 3.1789082,3.2155788 0 0 0 3.178638,3.21582 3.1789082,3.2155788 0 0 0 0.523132,-0.0444 3.1789082,3.2155788 0 0 1 -2.655506,-3.17138 3.1789082,3.2155788 0 0 1 2.655506,-3.17138 3.1789082,3.2155788 0 0 0 -0.523132,-0.0439 3.1789082,3.2155788 0 0 0 -0.0092,0 z" />
+        <circle
+           style="fill:#808080;fill-opacity:1;stroke-width:0.0844086"
+           id="circle4631-9"
+           cx="87.361496"
+           cy="163.92996"
+           r="1.748463" />
+        <path
+           id="path4633-2"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.0839264"
+           d="m 86.89161,162.16336 a 1.7285234,1.7484629 0 0 0 -1.723377,1.74832 1.7285234,1.7484629 0 0 0 1.728377,1.74859 1.7285234,1.7484629 0 0 0 0.284451,-0.0241 1.7285234,1.7484629 0 0 1 -1.443924,-1.72443 1.7285234,1.7484629 0 0 1 1.443924,-1.72443 1.7285234,1.7484629 0 0 0 -0.284451,-0.0239 1.7285234,1.7484629 0 0 0 -0.005,0 z" />
+        <path
+           id="path4635-1"
+           style="fill:#666666;fill-opacity:1;stroke-width:0.207887"
+           inkscape:transform-center-x="-2.8887839"
+           inkscape:transform-center-y="4.988227"
+           d="m 85.009061,157.83164 c -0.428916,0.38731 -0.954283,0.65187 -1.520838,0.76585 l 2.498775,4.40305 c 0.328404,-0.4584 0.810477,-0.81886 1.374373,-0.81878 0.04069,-4e-5 0.08136,0.001 0.121957,0.004 z"
+           sodipodi:nodetypes="cccccc" />
+        <circle
+           style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.106915"
+           id="circle4637-4"
+           cx="82.949493"
+           cy="155.44063"
+           r="2.2146676" />
+        <path
+           id="path4639-9"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.104061"
+           d="m 83.148168,153.23051 a 2.0980163,2.2146676 0 0 0 -0.293723,0.0236 2.0980163,2.2146676 0 0 1 1.792762,2.19117 2.0980163,2.2146676 0 0 1 -1.792464,2.19084 2.0980163,2.2146676 0 0 0 0.305057,0.0236 2.0980163,2.2146676 0 0 0 2.098114,-2.21445 2.0980163,2.2146676 0 0 0 -2.098114,-2.21477 2.0980163,2.2146676 0 0 0 -0.01163,0 z" />
+        <path
+           id="path4641-7"
+           style="fill:#666666;fill-opacity:1;stroke-width:0.207887"
+           inkscape:transform-center-x="3.2369489"
+           inkscape:transform-center-y="4.0440948"
+           d="m 85.99202,164.83498 -5.632805,6.83303 c -0.299677,0.36355 -0.2478,0.89766 0.115756,1.19734 0.363556,0.29968 0.897146,0.24832 1.196826,-0.11524 l 5.834269,-7.07812 c -0.04812,0.004 -0.08459,2.3e-4 -0.135837,-0.0174 -0.622742,-0.0946 -1.046845,-0.35065 -1.372989,-0.8248 z"
+           sodipodi:nodetypes="ccsccccc" />
+        <circle
+           style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.0581348"
+           id="circle4643-1"
+           cx="87.413177"
+           cy="163.92754"
+           r="1.2042199" />
+        <path
+           id="path4645-5"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.0565829"
+           d="m 87.52121,162.72581 a 1.1407912,1.20422 0 0 0 -0.159711,0.0128 1.1407912,1.20422 0 0 1 0.97481,1.19144 1.1407912,1.20422 0 0 1 -0.974648,1.19126 1.1407912,1.20422 0 0 0 0.165874,0.0128 1.1407912,1.20422 0 0 0 1.140844,-1.2041 1.1407912,1.20422 0 0 0 -1.140844,-1.20427 1.1407912,1.20422 0 0 0 -0.0063,0 z" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.234838"
+           id="rect4647-1"
+           width="6.4019723"
+           height="0.9921875"
+           x="175.05769"
+           y="65.699669"
+           ry="0.49609375"
+           transform="rotate(44.551555)" />
+        <path
+           id="path4649-3"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.234838"
+           d="m 78.396028,169.91543 c -0.03049,0.0196 -0.05975,0.0418 -0.0863,0.0687 -0.19281,0.19585 -0.190169,0.50896 0.0057,0.70177 l 3.855061,3.79511 c 0.194873,0.19185 0.505629,0.18985 0.698667,-0.003 -0.190897,0.1229 -0.44608,0.10269 -0.61495,-0.0636 l -3.85558,-3.79563 c -0.195853,-0.19281 -0.19798,-0.5054 -0.0052,-0.70125 7.91e-4,-8e-4 0.0018,-0.001 0.0026,-0.002 z" />
+        <circle
+           style="fill:#808080;fill-opacity:1;stroke-width:0.0591147"
+           id="circle4651-9"
+           cx="80.902573"
+           cy="172.29242"
+           r="1.224519" />
+        <path
+           id="path4653-0"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.058777"
+           d="m 80.573493,171.0552 a 1.2105545,1.224519 0 0 0 -1.20695,1.22442 1.2105545,1.224519 0 0 0 1.210452,1.22461 1.2105545,1.224519 0 0 0 0.199212,-0.0169 1.2105545,1.224519 0 0 1 -1.011238,-1.20769 1.2105545,1.224519 0 0 1 1.011238,-1.20769 1.2105545,1.224519 0 0 0 -0.199212,-0.0167 1.2105545,1.224519 0 0 0 -0.0035,0 z" />
+        <circle
+           style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.0407141"
+           id="circle4655-3"
+           cx="80.938766"
+           cy="172.29071"
+           r="0.8433637" />
+        <path
+           id="path4657-2"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.0396273"
+           d="m 81.014428,171.44911 a 0.79894201,0.84336376 0 0 0 -0.111853,0.009 0.79894201,0.84336376 0 0 1 0.682699,0.83441 0.79894201,0.84336376 0 0 1 -0.682585,0.83429 0.79894201,0.84336376 0 0 0 0.116168,0.009 0.79894201,0.84336376 0 0 0 0.798979,-0.84328 0.79894201,0.84336376 0 0 0 -0.798979,-0.8434 0.79894201,0.84336376 0 0 0 -0.0044,0 z" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.234838"
+           id="rect4659-9"
+           width="6.4019723"
+           height="0.9921875"
+           x="67.348419"
+           y="-175.40804"
+           ry="0.49609375"
+           transform="rotate(134.03178)"
+           inkscape:transform-center-x="2.0852273"
+           inkscape:transform-center-y="2.0270417" />
+        <path
+           id="path4661-4"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.234838"
+           inkscape:transform-center-x="2.0852273"
+           inkscape:transform-center-y="2.0270417"
+           d="m 78.472676,169.72062 c -0.126793,0.002 -0.252785,0.0531 -0.3483,0.15193 l -3.759978,3.88916 c -0.191026,0.1976 -0.185708,0.51074 0.01189,0.70177 0.02063,0.0199 0.04276,0.0365 0.06563,0.0522 -0.127481,-0.19015 -0.110037,-0.44856 0.05581,-0.62012 l 3.759978,-3.88968 c 0.171067,-0.17695 0.439418,-0.19793 0.635619,-0.0636 -0.01935,-0.0289 -0.04165,-0.0565 -0.0677,-0.0816 -0.0988,-0.0955 -0.226155,-0.14219 -0.352949,-0.14004 z" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.234838"
+           id="rect4663-1"
+           width="6.4019723"
+           height="0.9921875"
+           x="67.294182"
+           y="-180.90706"
+           ry="0.49609375"
+           transform="rotate(134.06973)"
+           inkscape:transform-center-x="2.0865198"
+           inkscape:transform-center-y="2.0256545" />
+        <path
+           id="path4665-6"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.234838"
+           inkscape:transform-center-x="2.0852273"
+           inkscape:transform-center-y="2.0270417"
+           d="m 82.348084,173.57933 c -0.126793,0.002 -0.252785,0.0531 -0.3483,0.15193 l -3.759978,3.88916 c -0.191026,0.1976 -0.185708,0.51074 0.01189,0.70177 0.02063,0.0199 0.04276,0.0365 0.06563,0.0522 -0.127481,-0.19015 -0.110037,-0.44856 0.05581,-0.62012 l 3.759978,-3.88968 c 0.171067,-0.17695 0.439418,-0.19793 0.635619,-0.0636 -0.01935,-0.0289 -0.04165,-0.0565 -0.0677,-0.0816 -0.0988,-0.0955 -0.226155,-0.14219 -0.352949,-0.14004 z" />
+        <path
+           id="path4667-5"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.207887"
+           inkscape:transform-center-x="3.2369489"
+           inkscape:transform-center-y="4.0440948"
+           d="m 85.716509,164.52271 -5.724713,6.94479 c -0.29968,0.36356 -0.248319,0.89767 0.115237,1.19735 0.363556,0.29967 0.897665,0.24831 1.197343,-0.11524 l 5.695259,-6.90914 a 1.748463,1.748463 0 0 1 -1.283126,-1.11776 z" />
+        <rect
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.207887"
+           id="rect4669-9"
+           width="1.7008928"
+           height="11.433781"
+           x="-6.2634888"
+           y="175.47961"
+           ry="0.8504464"
+           inkscape:transform-center-x="-2.8887839"
+           inkscape:transform-center-y="4.988227"
+           transform="rotate(-29.606373)" />
+        <circle
+           style="fill:#808080;fill-opacity:1;stroke-width:0.155235"
+           id="circle4671-2"
+           cx="82.854446"
+           cy="155.4451"
+           r="3.2155788" />
+        <path
+           id="path4673-1"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.154348"
+           d="m 81.990279,152.19612 a 3.1789082,3.2155788 0 0 0 -3.169445,3.21531 3.1789082,3.2155788 0 0 0 3.178638,3.21582 3.1789082,3.2155788 0 0 0 0.523132,-0.0444 3.1789082,3.2155788 0 0 1 -2.655506,-3.17138 3.1789082,3.2155788 0 0 1 2.655506,-3.17138 3.1789082,3.2155788 0 0 0 -0.523132,-0.0439 3.1789082,3.2155788 0 0 0 -0.0092,0 z" />
+        <circle
+           style="fill:#808080;fill-opacity:1;stroke-width:0.0844086"
+           id="circle4675-5"
+           cx="87.361496"
+           cy="163.92996"
+           r="1.748463" />
+        <path
+           id="path4677-6"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.0839264"
+           d="m 86.89161,162.16336 a 1.7285234,1.7484629 0 0 0 -1.723377,1.74832 1.7285234,1.7484629 0 0 0 1.728377,1.74859 1.7285234,1.7484629 0 0 0 0.284451,-0.0241 1.7285234,1.7484629 0 0 1 -1.443924,-1.72443 1.7285234,1.7484629 0 0 1 1.443924,-1.72443 1.7285234,1.7484629 0 0 0 -0.284451,-0.0239 1.7285234,1.7484629 0 0 0 -0.005,0 z" />
+        <path
+           id="path4679-2"
+           style="fill:#666666;fill-opacity:1;stroke-width:0.207887"
+           inkscape:transform-center-x="-2.8887839"
+           inkscape:transform-center-y="4.988227"
+           d="m 85.009061,157.83164 c -0.428916,0.38731 -0.954283,0.65187 -1.520838,0.76585 l 2.498775,4.40305 c 0.328404,-0.4584 0.810477,-0.81886 1.374373,-0.81878 0.04069,-4e-5 0.08136,0.001 0.121957,0.004 z"
+           sodipodi:nodetypes="cccccc" />
+        <circle
+           style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.106915"
+           id="circle4681-3"
+           cx="82.949493"
+           cy="155.44063"
+           r="2.2146676" />
+        <path
+           id="path4683-8"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.104061"
+           d="m 83.148168,153.23051 a 2.0980163,2.2146676 0 0 0 -0.293723,0.0236 2.0980163,2.2146676 0 0 1 1.792762,2.19117 2.0980163,2.2146676 0 0 1 -1.792464,2.19084 2.0980163,2.2146676 0 0 0 0.305057,0.0236 2.0980163,2.2146676 0 0 0 2.098114,-2.21445 2.0980163,2.2146676 0 0 0 -2.098114,-2.21477 2.0980163,2.2146676 0 0 0 -0.01163,0 z" />
+        <path
+           id="path4685-0"
+           style="fill:#666666;fill-opacity:1;stroke-width:0.207887"
+           inkscape:transform-center-x="3.2369489"
+           inkscape:transform-center-y="4.0440948"
+           d="m 85.99202,164.83498 -5.632805,6.83303 c -0.299677,0.36355 -0.2478,0.89766 0.115756,1.19734 0.363556,0.29968 0.897146,0.24832 1.196826,-0.11524 l 5.834269,-7.07812 c -0.04812,0.004 -0.08459,2.3e-4 -0.135837,-0.0174 -0.622742,-0.0946 -1.046845,-0.35065 -1.372989,-0.8248 z"
+           sodipodi:nodetypes="ccsccccc" />
+        <circle
+           style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.0581348"
+           id="circle4687-0"
+           cx="87.413177"
+           cy="163.92754"
+           r="1.2042199" />
+        <path
+           id="path4689-5"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.0565829"
+           d="m 87.52121,162.72581 a 1.1407912,1.20422 0 0 0 -0.159711,0.0128 1.1407912,1.20422 0 0 1 0.97481,1.19144 1.1407912,1.20422 0 0 1 -0.974648,1.19126 1.1407912,1.20422 0 0 0 0.165874,0.0128 1.1407912,1.20422 0 0 0 1.140844,-1.2041 1.1407912,1.20422 0 0 0 -1.140844,-1.20427 1.1407912,1.20422 0 0 0 -0.0063,0 z" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.234838"
+           id="rect4691-8"
+           width="6.4019723"
+           height="0.9921875"
+           x="175.05769"
+           y="65.699669"
+           ry="0.49609375"
+           transform="rotate(44.551555)" />
+        <path
+           id="path4693-7"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.234838"
+           d="m 78.396028,169.91543 c -0.03049,0.0196 -0.05975,0.0418 -0.0863,0.0687 -0.19281,0.19585 -0.190169,0.50896 0.0057,0.70177 l 3.855061,3.79511 c 0.194873,0.19185 0.505629,0.18985 0.698667,-0.003 -0.190897,0.1229 -0.44608,0.10269 -0.61495,-0.0636 l -3.85558,-3.79563 c -0.195853,-0.19281 -0.19798,-0.5054 -0.0052,-0.70125 7.91e-4,-8e-4 0.0018,-0.001 0.0026,-0.002 z" />
+        <circle
+           style="fill:#808080;fill-opacity:1;stroke-width:0.0591147"
+           id="circle4695-6"
+           cx="80.902573"
+           cy="172.29242"
+           r="1.224519" />
+        <path
+           id="path4697-5"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.058777"
+           d="m 80.573493,171.0552 a 1.2105545,1.224519 0 0 0 -1.20695,1.22442 1.2105545,1.224519 0 0 0 1.210452,1.22461 1.2105545,1.224519 0 0 0 0.199212,-0.0169 1.2105545,1.224519 0 0 1 -1.011238,-1.20769 1.2105545,1.224519 0 0 1 1.011238,-1.20769 1.2105545,1.224519 0 0 0 -0.199212,-0.0167 1.2105545,1.224519 0 0 0 -0.0035,0 z" />
+        <circle
+           style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.0407141"
+           id="circle4699-0"
+           cx="80.938766"
+           cy="172.29071"
+           r="0.8433637" />
+        <path
+           id="path4701-8"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.0396273"
+           d="m 81.014428,171.44911 a 0.79894201,0.84336376 0 0 0 -0.111853,0.009 0.79894201,0.84336376 0 0 1 0.682699,0.83441 0.79894201,0.84336376 0 0 1 -0.682585,0.83429 0.79894201,0.84336376 0 0 0 0.116168,0.009 0.79894201,0.84336376 0 0 0 0.798979,-0.84328 0.79894201,0.84336376 0 0 0 -0.798979,-0.8434 0.79894201,0.84336376 0 0 0 -0.0044,0 z" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.234838"
+           id="rect4703-1"
+           width="6.4019723"
+           height="0.9921875"
+           x="67.348419"
+           y="-175.40804"
+           ry="0.49609375"
+           transform="rotate(134.03178)"
+           inkscape:transform-center-x="2.0852273"
+           inkscape:transform-center-y="2.0270417" />
+        <path
+           id="path4705-2"
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.234838"
+           inkscape:transform-center-x="2.0852273"
+           inkscape:transform-center-y="2.0270417"
+           d="m 78.472676,169.72062 c -0.126793,0.002 -0.252785,0.0531 -0.3483,0.15193 l -3.759978,3.88916 c -0.191026,0.1976 -0.185708,0.51074 0.01189,0.70177 0.02063,0.0199 0.04276,0.0365 0.06563,0.0522 -0.127481,-0.19015 -0.110037,-0.44856 0.05581,-0.62012 l 3.759978,-3.88968 c 0.171067,-0.17695 0.439418,-0.19793 0.635619,-0.0636 -0.01935,-0.0289 -0.04165,-0.0565 -0.0677,-0.0816 -0.0988,-0.0955 -0.226155,-0.14219 -0.352949,-0.14004 z" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.234838"
+           id="rect4707-2"
+           width="6.4019723"
+           height="0.9921875"
+           x="67.294182"
+           y="-180.90706"
+           ry="0.49609375"
+           transform="rotate(134.06973)"
+           inkscape:transform-center-x="2.0865198"
+           inkscape:transform-center-y="2.0256545" />
+      </g>
+    </g>
+    <g
+       id="g4860"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Animations\EnemyRobot\Body.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="display:inline;fill:#aa8800;fill-opacity:1;stroke-width:0.264583"
+         id="rect4515-3"
+         width="15.902536"
+         height="15.902536"
+         x="-358.2973"
+         y="58.897049"
+         ry="4.5894628"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#d4aa00;fill-opacity:1;stroke-width:0.1938"
+         id="rect4517-7"
+         width="8.5320005"
+         height="15.902536"
+         x="-350.92676"
+         y="58.897049"
+         ry="4.5894628"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#4d4d4d;fill-opacity:1;stroke-width:0.063487"
+         id="rect4583-6"
+         width="5.4429212"
+         height="4.2853503"
+         x="-357.58862"
+         y="63.784355"
+         ry="0.33231646"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.0516819"
+         id="rect4805-6"
+         width="4.4308386"
+         height="3.488512"
+         x="-357.08258"
+         y="64.18277"
+         ry="0.27052397"
+         inkscape:export-filename="C:\Users\drasaev\YandexDisk\Animations\robot\full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
   </g>
 </svg>

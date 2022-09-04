@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.5" tiledversion="1.7.1" name="Objects" tilewidth="405" tileheight="390" tilecount="24" columns="0">
+<tileset version="1.5" tiledversion="1.7.1" name="Objects" tilewidth="405" tileheight="390" tilecount="23" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <image width="121" height="121" source="../Drawing/Objects/Background.png"/>
@@ -52,25 +52,22 @@
  <tile id="16">
   <image width="99" height="258" source="../Drawing/Objects/Robot.png"/>
  </tile>
- <tile id="17">
-  <image width="126" height="155" source="../Drawing/Objects/RobotSmall.png"/>
+ <tile id="28">
+  <image width="177" height="201" source="../Drawing/Objects/RobotSmall.png"/>
+ </tile>
+ <tile id="27">
+  <image width="390" height="43" source="../Drawing/Objects/Roof_empty.png"/>
  </tile>
  <tile id="19">
   <image width="390" height="37" source="../Drawing/Objects/Roof_part2.png"/>
  </tile>
- <tile id="20">
-  <image width="177" height="132" source="../Drawing/Objects/Table.png"/>
- </tile>
  <tile id="21">
   <image width="59" height="390" source="../Drawing/Objects/Wall.png"/>
- </tile>
- <tile id="23">
-  <image width="50" height="43" source="../Drawing/Objects/RoofCorner.png"/>
  </tile>
  <tile id="25">
   <image width="390" height="43" source="../Drawing/Objects/Roof_part1.png"/>
  </tile>
- <tile id="27">
-  <image width="390" height="43" source="../Drawing/Objects/Roof_empty.png"/>
+ <tile id="23">
+  <image width="50" height="43" source="../Drawing/Objects/RoofCorner.png"/>
  </tile>
 </tileset>
