@@ -6,10 +6,10 @@
     local M = {}
 -- fabric method
 -----------------------------------------------------------------------------------------
-    function M.new(_instance)
+    function M.new(_map)
     -- private consts
     ----------------------------------------------------------------------------------------
-        local const IMAGE_SHEET_FILENAME = "Assets\\Objects\\EnemyRobot\\EnemyRobotAnimationSheet.png"
+        local const IMAGE_SHEET_FILENAME = "Assets/Objects/EnemyRobot/EnemyRobotAnimationSheet.png"
 
         local const ANGRY_SEQ_NAME = "IdleAngry"
         local const CONTROL_SEQ_NAME = "IdleControl"
@@ -44,27 +44,25 @@
             },    
         }
 
-    -- constructor
-    -----------------------------------------------------------------------------------------
-        local x, y = _instance.x, _instance.y
-        local parent = _instance.parent
-        _instance.isVisible = false
-
+        local instance = _map:findObject("EnemyRobot")
         local sheet = {}
 
-        if (IS_SIMULATOR) then
-            sheet = graphics.newImageSheet(IMAGE_SHEET_FILENAME, sheetInfo:getSheet())
-        else
-            sheet = graphics.newImageSheet(system.pathForFile(IMAGE_SHEET_FILENAME), sheetInfo:getSheet())
-        end
+    -- constructor
+    -----------------------------------------------------------------------------------------        
+        local x, y = instance.x, instance.y
+        local parent = instance.parent
+        instance.isVisible = false
 
-        _instance = display.newSprite(parent, sheet, sequenceData)
-        _instance.x = x
-        _instance.y = y
-        _instance:scale(0.7, 0.7)
-        -- _instance.timescale = 0.05
-        _instance:setSequence(CONTROL_SEQ_NAME)
-        _instance:play()
+        sheet = graphics.newImageSheet(IMAGE_SHEET_FILENAME, sheetInfo:getSheet())
+
+        instance = display.newSprite(parent, sheet, sequenceData)
+        instance.x = x
+        instance.y = y
+        instance:scale(0.6, 0.6)
+        instance:setSequence(CONTROL_SEQ_NAME)
+        instance:play()
+
+        return instance
     end
 
 return M

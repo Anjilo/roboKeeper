@@ -5,12 +5,11 @@
 -----------------------------------------------------------------------------------------
     local M = {}
 -- fabric method
------------------------------------------------------------------------------------------
-    function M.new(_instance)
+------------------------------------------------------------------------------------------
+    function M.new(_map)
     -- private consts
     -----------------------------------------------------------------------------------------
-        
-        local const IMAGE_SHEET_FILENAME = "Assets\\Objects\\MainRobot\\RobotSheet.png"
+        local const IMAGE_SHEET_FILENAME = "Assets/Objects/MainRobot/RobotSheet.png"
         local const DEAD_SEQ_NAME = "Dead"
         local const IDLE_SEQ_NAME = "Idle"
         local const JUMP_SEQ_NAME = "Jump"
@@ -52,26 +51,48 @@
             }
         }
 
-    -- constructor
-    ----------------------------------------------------------------------------------------
-        local x, y = _instance.x, _instance.y
-        local parent = _instance.parent
-        _instance.isVisible = false
+        local instance = _map:findObject("MainRobot")
 
         local sheet = {}
 
-        if (IS_SIMULATOR) then
-            sheet = graphics.newImageSheet(IMAGE_SHEET_FILENAME, sheetInfo:getSheet())
-        else
-            sheet = graphics.newImageSheet(system.pathForFile(IMAGE_SHEET_FILENAME), sheetInfo:getSheet())
+    -- constructor
+    ----------------------------------------------------------------------------------------
+        local x, y = instance.x, instance.y
+        local parent = instance.parent    
+        instance.isVisible = false        
+
+        sheet = graphics.newImageSheet(IMAGE_SHEET_FILENAME, sheetInfo:getSheet())
+        instance = display.newSprite( sheet , sequenceData )
+        instance.x = x
+        instance.y = y
+        instance:scale(1.5, 1.5)
+        instance:setSequence(IDLE_SEQ_NAME)
+        instance:play()
+
+        -- change direction method
+        ----------------------------------------------------------------------------------------
+        function instance:updateDirection(_direction)
+            local seqName = ""
+
+            if (_direction == true) then
+                seqName = RUN_FRWRD_SEQ_NAME
+            else
+                seqName = RUN_BCKRWRD_SEQ_NAME
+            end
+
+            if (seqName ~= self.sequence) then
+                self:setSequence(seqName)  
+                self:play()              
+            end
         end
 
-        _instance = display.newSprite(parent, sheet, sequenceData)
-        _instance.x = x
-        _instance.y = y
-        _instance:scale(2, 2)
-        _instance:setSequence(RUN_FRWRD_SEQ_NAME)
-        _instance:play()
-    end
+        -- move method--
+        ----------------------------------------------------------------------------------------
+        function instance:move(_speed)
+            self:updateDirection(_speed <= 0)
+            self.x = self.x + _speed * 50
+        end
 
+        return instance
+    end
 return M

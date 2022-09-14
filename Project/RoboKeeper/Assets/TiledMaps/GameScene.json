@@ -490,8 +490,8 @@
                  "type":"",
                  "visible":true,
                  "width":71.3721,
-                 "x":332.333,
-                 "y":1198
+                 "x":326.999666666667,
+                 "y":1204.66666666667
                 }],
          "offsetx":8,
          "offsety":28,
@@ -720,8 +720,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":26,
- "nextobjectid":121,
+ "nextlayerid":27,
+ "nextobjectid":127,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -750,143 +750,147 @@
          "tiles":[
                 {
                  "id":0,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Background.png",
+                 "image":"..\/Objects\/Background.png",
                  "imageheight":121,
                  "imagewidth":121
                 }, 
                 {
                  "id":1,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Background2.png",
+                 "image":"..\/Objects\/Background2.png",
                  "imageheight":121,
                  "imagewidth":121
                 }, 
                 {
                  "id":2,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Background3.png",
+                 "image":"..\/Objects\/Background3.png",
                  "imageheight":121,
                  "imagewidth":121
                 }, 
                 {
                  "id":3,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Background4.png",
+                 "image":"..\/Objects\/Background4.png",
                  "imageheight":121,
                  "imagewidth":121
                 }, 
                 {
                  "id":4,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Background5.png",
+                 "image":"..\/Objects\/Background5.png",
                  "imageheight":121,
                  "imagewidth":121
                 }, 
                 {
                  "id":5,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Box.png",
+                 "image":"..\/Objects\/Box.png",
                  "imageheight":85,
                  "imagewidth":122
                 }, 
                 {
                  "id":6,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/ButtonLeft.png",
+                 "image":"..\/Objects\/ButtonLeft.png",
                  "imageheight":84,
                  "imagewidth":94
                 }, 
                 {
                  "id":7,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/ButtonRight.png",
+                 "image":"..\/Objects\/ButtonRight.png",
                  "imageheight":84,
                  "imagewidth":94
                 }, 
                 {
                  "id":8,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Crane_part1.png",
+                 "image":"..\/Objects\/Crane_part1.png",
                  "imageheight":96,
                  "imagewidth":89
                 }, 
                 {
                  "id":9,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Crane_part2.png",
+                 "image":"..\/Objects\/Crane_part2.png",
                  "imageheight":362,
                  "imagewidth":12
                 }, 
                 {
                  "id":10,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Crane_part3.png",
+                 "image":"..\/Objects\/Crane_part3.png",
                  "imageheight":60,
                  "imagewidth":88
                 }, 
                 {
                  "id":11,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Floor.png",
+                 "image":"..\/Objects\/Floor.png",
                  "imageheight":45,
                  "imagewidth":405
                 }, 
                 {
                  "id":12,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Pipe1.png",
+                 "image":"..\/Objects\/Pipe1.png",
                  "imageheight":13,
                  "imagewidth":86
                 }, 
                 {
                  "id":13,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Pipe2.png",
+                 "image":"..\/Objects\/Pipe2.png",
                  "imageheight":13,
                  "imagewidth":86
                 }, 
                 {
                  "id":14,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Pipe3.png",
+                 "image":"..\/Objects\/Pipe3.png",
                  "imageheight":13,
                  "imagewidth":86
                 }, 
                 {
                  "id":15,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Pipe4.png",
+                 "image":"..\/Objects\/Pipe4.png",
                  "imageheight":13,
                  "imagewidth":86
                 }, 
                 {
                  "id":16,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Robot.png",
+                 "image":"..\/Objects\/Robot.png",
                  "imageheight":258,
                  "imagewidth":99
                 }, 
                 {
                  "id":28,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/RobotSmall.png",
+                 "image":"..\/Objects\/RobotSmall.png",
                  "imageheight":201,
                  "imagewidth":177
                 }, 
                 {
                  "id":27,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Roof_empty.png",
+                 "image":"..\/Objects\/Roof_empty.png",
                  "imageheight":43,
                  "imagewidth":390
                 }, 
                 {
                  "id":19,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Roof_part2.png",
+                 "image":"..\/Objects\/Roof_part2.png",
                  "imageheight":37,
                  "imagewidth":390
                 }, 
                 {
                  "id":21,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Wall.png",
+                 "image":"..\/Objects\/Wall.png",
                  "imageheight":390,
                  "imagewidth":59
                 }, 
                 {
                  "id":25,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/Roof_part1.png",
+                 "image":"..\/Objects\/Roof_part1.png",
                  "imageheight":43,
                  "imagewidth":390
                 }, 
                 {
                  "id":23,
-                 "image":"..\/..\/..\/..\/Assets\/Drawing\/Objects\/RoofCorner.png",
+                 "image":"..\/Objects\/RoofCorner.png",
                  "imageheight":43,
                  "imagewidth":50
                 }],
          "tilewidth":405
+        }, 
+        {
+         "firstgid":30,
+         "source":"Objects.tsx"
         }],
  "tilewidth":8,
  "type":"map",

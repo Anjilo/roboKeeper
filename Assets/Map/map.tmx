@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="90" height="160" tilewidth="8" tileheight="8" infinite="0" backgroundcolor="#373e48" nextlayerid="26" nextobjectid="121">
+<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="90" height="160" tilewidth="8" tileheight="8" infinite="0" backgroundcolor="#373e48" nextlayerid="27" nextobjectid="127">
  <editorsettings>
-  <export target="../../Project/RoboKeeper/Assets/TiledMaps/GameScene.json" format="json"/>
+  <export target="GameScene.json" format="json"/>
  </editorsettings>
  <properties>
   <property name="bodyType" value="kinematic"/>
@@ -9,75 +9,76 @@
  <tileset firstgid="1" name="Objects" tilewidth="405" tileheight="390" tilecount="23" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
-   <image width="121" height="121" source="../Drawing/Objects/Background.png"/>
+   <image width="121" height="121" source="../Objects/Background.png"/>
   </tile>
   <tile id="1">
-   <image width="121" height="121" source="../Drawing/Objects/Background2.png"/>
+   <image width="121" height="121" source="../Objects/Background2.png"/>
   </tile>
   <tile id="2">
-   <image width="121" height="121" source="../Drawing/Objects/Background3.png"/>
+   <image width="121" height="121" source="../Objects/Background3.png"/>
   </tile>
   <tile id="3">
-   <image width="121" height="121" source="../Drawing/Objects/Background4.png"/>
+   <image width="121" height="121" source="../Objects/Background4.png"/>
   </tile>
   <tile id="4">
-   <image width="121" height="121" source="../Drawing/Objects/Background5.png"/>
+   <image width="121" height="121" source="../Objects/Background5.png"/>
   </tile>
   <tile id="5">
-   <image width="122" height="85" source="../Drawing/Objects/Box.png"/>
+   <image width="122" height="85" source="../Objects/Box.png"/>
   </tile>
   <tile id="6">
-   <image width="94" height="84" source="../Drawing/Objects/ButtonLeft.png"/>
+   <image width="94" height="84" source="../Objects/ButtonLeft.png"/>
   </tile>
   <tile id="7">
-   <image width="94" height="84" source="../Drawing/Objects/ButtonRight.png"/>
+   <image width="94" height="84" source="../Objects/ButtonRight.png"/>
   </tile>
   <tile id="8">
-   <image width="89" height="96" source="../Drawing/Objects/Crane_part1.png"/>
+   <image width="89" height="96" source="../Objects/Crane_part1.png"/>
   </tile>
   <tile id="9">
-   <image width="12" height="362" source="../Drawing/Objects/Crane_part2.png"/>
+   <image width="12" height="362" source="../Objects/Crane_part2.png"/>
   </tile>
   <tile id="10">
-   <image width="88" height="60" source="../Drawing/Objects/Crane_part3.png"/>
+   <image width="88" height="60" source="../Objects/Crane_part3.png"/>
   </tile>
   <tile id="11">
-   <image width="405" height="45" source="../Drawing/Objects/Floor.png"/>
+   <image width="405" height="45" source="../Objects/Floor.png"/>
   </tile>
   <tile id="12">
-   <image width="86" height="13" source="../Drawing/Objects/Pipe1.png"/>
+   <image width="86" height="13" source="../Objects/Pipe1.png"/>
   </tile>
   <tile id="13">
-   <image width="86" height="13" source="../Drawing/Objects/Pipe2.png"/>
+   <image width="86" height="13" source="../Objects/Pipe2.png"/>
   </tile>
   <tile id="14">
-   <image width="86" height="13" source="../Drawing/Objects/Pipe3.png"/>
+   <image width="86" height="13" source="../Objects/Pipe3.png"/>
   </tile>
   <tile id="15">
-   <image width="86" height="13" source="../Drawing/Objects/Pipe4.png"/>
+   <image width="86" height="13" source="../Objects/Pipe4.png"/>
   </tile>
   <tile id="16">
-   <image width="99" height="258" source="../Drawing/Objects/Robot.png"/>
+   <image width="99" height="258" source="../Objects/Robot.png"/>
   </tile>
   <tile id="28">
-   <image width="177" height="201" source="../Drawing/Objects/RobotSmall.png"/>
+   <image width="177" height="201" source="../Objects/RobotSmall.png"/>
   </tile>
   <tile id="27">
-   <image width="390" height="43" source="../Drawing/Objects/Roof_empty.png"/>
+   <image width="390" height="43" source="../Objects/Roof_empty.png"/>
   </tile>
   <tile id="19">
-   <image width="390" height="37" source="../Drawing/Objects/Roof_part2.png"/>
+   <image width="390" height="37" source="../Objects/Roof_part2.png"/>
   </tile>
   <tile id="21">
-   <image width="59" height="390" source="../Drawing/Objects/Wall.png"/>
+   <image width="59" height="390" source="../Objects/Wall.png"/>
   </tile>
   <tile id="25">
-   <image width="390" height="43" source="../Drawing/Objects/Roof_part1.png"/>
+   <image width="390" height="43" source="../Objects/Roof_part1.png"/>
   </tile>
   <tile id="23">
-   <image width="50" height="43" source="../Drawing/Objects/RoofCorner.png"/>
+   <image width="50" height="43" source="../Objects/RoofCorner.png"/>
   </tile>
  </tileset>
+ <tileset firstgid="30" source="Objects.tsx"/>
  <objectgroup id="20" name="Background0">
   <object id="111" gid="1" x="-52" y="1258.33" width="801" height="1305"/>
  </objectgroup>
@@ -125,7 +126,7 @@
   <object id="11" gid="22" x="688" y="63" width="59" height="390"/>
  </objectgroup>
  <objectgroup id="13" name="Robot" offsetx="8" offsety="28">
-  <object id="74" name="MainRobot" gid="17" x="332.333" y="1198" width="71.3721" height="186"/>
+  <object id="74" name="MainRobot" gid="17" x="327" y="1204.67" width="71.3721" height="186"/>
  </objectgroup>
  <objectgroup id="14" name="Box">
   <object id="75" name="Box" gid="6" x="300.333" y="398.667" width="122" height="85"/>
