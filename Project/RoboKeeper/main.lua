@@ -17,8 +17,9 @@
     HIDE_SCENE_EVENT_NAME = "hide"
     DESTROY_SCENE_EVENT_NAME = "destroy"
     ACC_EVENT_NAME = "accelerometer"
+    COLL_DET_EVENT_NAME = "collision"
 -- source
 -----------------------------------------------------------------------------------------
-    system.setAccelerometerInterval(40)
+    system.setAccelerometerInterval(50)
     display.setStatusBar( display.HiddenStatusBar )
     composer.gotoScene( "Core.Scenes.GameScene", "fade" )

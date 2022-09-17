@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="90" height="160" tilewidth="8" tileheight="8" infinite="0" backgroundcolor="#373e48" nextlayerid="27" nextobjectid="127">
+<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="90" height="160" tilewidth="8" tileheight="8" infinite="0" backgroundcolor="#373e48" nextlayerid="28" nextobjectid="138">
  <editorsettings>
   <export target="GameScene.json" format="json"/>
  </editorsettings>
@@ -126,7 +126,13 @@
   <object id="11" gid="22" x="688" y="63" width="59" height="390"/>
  </objectgroup>
  <objectgroup id="13" name="Robot" offsetx="8" offsety="28">
-  <object id="74" name="MainRobot" gid="17" x="327" y="1204.67" width="71.3721" height="186"/>
+  <object id="74" name="MainRobot" gid="17" x="322.5" y="1240.17" width="71.3721" height="186">
+   <properties>
+    <property name="bodyType" value="kinematic"/>
+    <property name="isBodyActive" type="bool" value="true"/>
+    <property name="isSensor" type="bool" value="true"/>
+   </properties>
+  </object>
  </objectgroup>
  <objectgroup id="14" name="Box">
   <object id="75" name="Box" gid="6" x="300.333" y="398.667" width="122" height="85"/>
@@ -154,4 +160,22 @@
  </objectgroup>
  <objectgroup id="23" name="ButtonsBackground"/>
  <objectgroup id="24" name="Buttons"/>
+ <objectgroup id="27" name="Walls">
+  <object id="136" name="WallLeft" x="-42" y="403" width="72" height="964">
+   <properties>
+    <property name="bodyType" value="kinematic"/>
+    <property name="isBodyActive" type="bool" value="true"/>
+    <property name="isSensor" type="bool" value="true"/>
+    <property name="isVisible" type="bool" value="false"/>
+   </properties>
+  </object>
+  <object id="137" name="WallRight" x="690" y="397" width="68" height="910">
+   <properties>
+    <property name="bodyType" value="kinamatic"/>
+    <property name="isBodyActive" type="bool" value="true"/>
+    <property name="isSensor" type="bool" value="true"/>
+    <property name="isVisible" type="bool" value="false"/>
+   </properties>
+  </object>
+ </objectgroup>
 </map>

@@ -22,6 +22,14 @@
             local mapData = json.decodeFile(system.pathForFile(MAP_PATH, system.ResourceDirectory))
             local map = tiledModule.new(mapData, ASSETS_PATH)
 
+            local wallBuffer = map:findObject("WallLeft")
+            wallBuffer.isVisible = false
+            physics.addBody(wallBuffer)
+
+            local wallBuffer = map:findObject("WallRight")
+            wallBuffer.isVisible = false
+            physics.addBody(wallBuffer)                        
+
             return map
         end
 

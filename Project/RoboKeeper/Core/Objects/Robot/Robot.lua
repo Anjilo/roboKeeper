@@ -14,7 +14,7 @@
         local const IDLE_SEQ_NAME = "Idle"
         local const JUMP_SEQ_NAME = "Jump"
         local const RUN_BCKRWRD_SEQ_NAME = "RunBackward"
-        local const RUN_FRWRD_SEQ_NAME ="RunForward"
+        local const RUN_FRWRD_SEQ_NAME = "RunForward"
 
     -- private decls    
     -----------------------------------------------------------------------------------------
@@ -51,16 +51,20 @@
             }
         }
 
-        local instance = _map:findObject("MainRobot")
+        local instance = _map:findObject("MainRobot")    
+        -- local currentvelocityFactor =  STD_VELOCITY_FACTOR -- that one can be modified after collision events (see onCollision method)  
 
         local sheet = {}
 
     -- constructor
     ----------------------------------------------------------------------------------------
+        -- deleting old instance (created by map)
         local x, y = instance.x, instance.y
         local parent = instance.parent    
-        instance.isVisible = false        
+        instance.isVisible = false    
+        instance.isBodyActive = false
 
+        -- creating new instance
         sheet = graphics.newImageSheet(IMAGE_SHEET_FILENAME, sheetInfo:getSheet())
         instance = display.newSprite( sheet , sequenceData )
         instance.x = x
@@ -68,9 +72,10 @@
         instance:scale(1.5, 1.5)
         instance:setSequence(IDLE_SEQ_NAME)
         instance:play()
+        physics.addBody(instance)
 
-        -- change direction method
-        ----------------------------------------------------------------------------------------
+    -- change direction method
+    ----------------------------------------------------------------------------------------
         function instance:updateDirection(_direction)
             local seqName = ""
 
@@ -86,12 +91,12 @@
             end
         end
 
-        -- move method--
-        ----------------------------------------------------------------------------------------
+    -- move method--
+    ----------------------------------------------------------------------------------------
         function instance:move(_speed)
             self:updateDirection(_speed <= 0)
-            self.x = self.x + _speed * 50
-        end
+            self.x = self.x + _speed
+        end   
 
         return instance
     end
