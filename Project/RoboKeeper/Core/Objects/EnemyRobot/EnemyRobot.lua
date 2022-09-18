@@ -44,6 +44,7 @@
             },    
         }
 
+        local gripper = nil
         local instance = _map:findObject("EnemyRobot")
         local sheet = {}
 
@@ -61,6 +62,18 @@
         instance:scale(0.6, 0.6)
         instance:setSequence(CONTROL_SEQ_NAME)
         instance:play()
+
+    -- gripper setter
+    -----------------------------------------------------------------------------------------     
+        function instance:setGripper(_gripper)
+            gripper = _gripper    
+        end
+        
+    -- move gripper
+    -----------------------------------------------------------------------------------------     
+        function instance:moveGripper(_offset)
+            gripper:move(_offset)            
+        end
 
         return instance
     end

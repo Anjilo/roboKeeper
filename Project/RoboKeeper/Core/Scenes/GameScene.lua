@@ -34,6 +34,7 @@
         xBorderRight = wallRight.x - wallRight.width 
         xBorderleft = wallLeft.x + wallLeft.width
 
+
         -- native.showAlert("Debug", "test borders " .. tostring(xBorderRight), {"ok"})
         
     end
@@ -53,6 +54,7 @@
         -- native.showAlert("Debug", "test condition " .. tostring(xBorderRight), {"ok"})
         
         if ((canMoveToLeft) and (_event.xRaw < 0)) or ((canMoveToRight) and (_event.xRaw > 0)) then
+            enemyRobotView:moveGripper(_event.xRaw * STD_VELOCITY_FACTOR)
             mainRobotView:move(_event.xRaw * STD_VELOCITY_FACTOR)
             -- 
         end

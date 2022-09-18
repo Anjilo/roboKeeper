@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="-417.28263"
-     inkscape:cy="149.36487"
+     inkscape:zoom="4"
+     inkscape:cx="-383.82151"
+     inkscape:cy="842.09927"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -13099,10 +13099,10 @@
     </g>
     <path
        style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -124.48292,238.55849 c 0,0 2.37891,6.17798 2.8164,6.43867 0.43749,0.26069 3.95823,0.21921 4.25259,0 0.29436,-0.21921 2.79731,-6.36604 2.79731,-6.36604 z"
+       d="m -148.16313,234.25901 c 0,0 2.37891,6.17798 2.8164,6.43867 0.43749,0.26069 3.95823,0.21921 4.25259,0 0.29436,-0.21921 2.79731,-6.36604 2.79731,-6.36604 z"
        id="path3395"
        sodipodi:nodetypes="czzcc"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_left_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -13110,17 +13110,10 @@
        id="rect3397"
        width="9.869978"
        height="16.505297"
-       x="-124.4755"
-       y="223.30818"
+       x="-148.15572"
+       y="219.0087"
        ry="1.4477601"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       id="path3399"
-       style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.168215"
-       d="m -115.47689,223.96625 a 3.4645216,3.5044868 0 0 0 -3.45422,3.5042 3.4645216,3.5044868 0 0 0 3.46423,3.50475 3.4645216,3.5044868 0 0 0 0.57014,-0.0484 3.4645216,3.5044868 0 0 1 -2.89409,-3.45632 3.4645216,3.5044868 0 0 1 2.89409,-3.45632 3.4645216,3.5044868 0 0 0 -0.57014,-0.0478 3.4645216,3.5044868 0 0 0 -0.009,0 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_left_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -13128,45 +13121,35 @@
        id="rect3401"
        width="9.869978"
        height="16.505297"
-       x="-123.41718"
-       y="223.30818"
+       x="-147.0974"
+       y="219.0087"
        ry="1.5422541"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_left_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -123.42458,238.49167 c 0,0 2.37891,6.17798 2.8164,6.43867 0.4375,0.26069 3.95823,0.21921 4.25259,0 0.29436,-0.21921 2.79731,-6.36604 2.79731,-6.36604 z"
+       d="m -147.10479,234.19219 c 0,0 2.37891,6.17798 2.8164,6.43867 0.4375,0.26069 3.95823,0.21921 4.25259,0 0.29436,-0.21921 2.79731,-6.36604 2.79731,-6.36604 z"
        id="path3403"
        sodipodi:nodetypes="czzcc"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <ellipse
-       style="fill:#808080;fill-opacity:1;stroke-width:0.119381"
-       id="ellipse3405"
-       cx="-117.44096"
-       cy="227.89032"
-       rx="2.4356425"
-       ry="2.5107038"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_left_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <ellipse
        style="fill:#999999;fill-opacity:1;stroke-width:0.11784"
        id="ellipse3407"
-       cx="-117.72443"
+       cx="-117.7244"
        cy="227.72498"
        rx="2.4042058"
        ry="2.4782984"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3409"
        style="fill:#666666;fill-opacity:1;stroke-width:0.117166"
        d="m -118.37054,225.22094 a 2.3767882,2.4782984 0 0 0 -2.36972,2.47809 2.3767882,2.4782984 0 0 0 2.37659,2.47848 2.3767882,2.4782984 0 0 0 0.39113,-0.0342 2.3767882,2.4782984 0 0 1 -1.98545,-2.44424 2.3767882,2.4782984 0 0 1 1.98545,-2.44423 2.3767882,2.4782984 0 0 0 -0.39113,-0.0338 2.3767882,2.4782984 0 0 0 -0.006,0 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -13178,21 +13161,21 @@
        y="-119.06262"
        ry="1.7651144"
        transform="rotate(-90)"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3413"
        style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
        d="m -110.30548,225.89373 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3415"
        style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.168215"
-       d="m -105.45702,224.44167 a 3.4645216,3.5044868 0 0 0 -3.45421,3.5042 3.4645216,3.5044868 0 0 0 3.46422,3.50475 3.4645216,3.5044868 0 0 0 0.57014,-0.0484 3.4645216,3.5044868 0 0 1 -2.89409,-3.45632 3.4645216,3.5044868 0 0 1 2.89409,-3.45632 3.4645216,3.5044868 0 0 0 -0.57014,-0.0479 3.4645216,3.5044868 0 0 0 -0.009,0 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       d="m -86.701381,215.55496 a 3.4645216,3.5044868 0 0 0 -3.45421,3.5042 3.4645216,3.5044868 0 0 0 3.46422,3.50475 3.4645216,3.5044868 0 0 0 0.57014,-0.0484 3.4645216,3.5044868 0 0 1 -2.89409,-3.45632 3.4645216,3.5044868 0 0 1 2.89409,-3.45632 3.4645216,3.5044868 0 0 0 -0.57014,-0.0479 3.4645216,3.5044868 0 0 0 -0.009,0 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_right_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -13200,10 +13183,10 @@
        id="rect3417"
        width="7.0430465"
        height="0.97638005"
-       x="-121.91248"
-       y="239.40781"
+       x="-145.5927"
+       y="235.10832"
        ry="0.48819003"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_left_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -13211,10 +13194,10 @@
        id="rect3419"
        width="5.7673769"
        height="0.97638005"
-       x="-121.1471"
-       y="241.38272"
+       x="-144.82732"
+       y="237.08324"
        ry="0.48819003"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_left_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -13222,67 +13205,67 @@
        id="rect3421"
        width="4.349966"
        height="0.97638005"
-       x="-120.46671"
-       y="243.25369"
+       x="-144.14693"
+       y="238.95421"
        ry="0.48819003"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_left_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3423"
        style="display:inline;fill:#333333;fill-opacity:1;stroke-width:0.244346"
-       d="m -115.35726,239.40767 c 0.27046,0 0.48783,0.21788 0.48783,0.48834 0,0.27046 -0.21737,0.48834 -0.48783,0.48834 h -0.52917 c 0.27046,0 0.48783,-0.21788 0.48783,-0.48834 0,-0.27046 -0.21737,-0.48834 -0.48783,-0.48834 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       d="m -139.03747,235.10819 c 0.27046,0 0.48783,0.21788 0.48783,0.48834 0,0.27046 -0.21737,0.48834 -0.48783,0.48834 h -0.52917 c 0.27046,0 0.48783,-0.21788 0.48783,-0.48834 0,-0.27046 -0.21737,-0.48834 -0.48783,-0.48834 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_left_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3425"
        style="display:inline;fill:#333333;fill-opacity:1;stroke-width:0.244346"
-       d="m -115.86754,241.38259 c 0.27046,0 0.48783,0.21788 0.48783,0.48834 0,0.27046 -0.21737,0.48834 -0.48783,0.48834 h -0.52917 c 0.27046,0 0.48783,-0.21788 0.48783,-0.48834 0,-0.27046 -0.21737,-0.48834 -0.48783,-0.48834 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       d="m -139.54775,237.08311 c 0.27046,0 0.48783,0.21788 0.48783,0.48834 0,0.27046 -0.21737,0.48834 -0.48783,0.48834 h -0.52917 c 0.27046,0 0.48783,-0.21788 0.48783,-0.48834 0,-0.27046 -0.21737,-0.48834 -0.48783,-0.48834 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_left_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3427"
        style="display:inline;fill:#333333;fill-opacity:1;stroke-width:0.244346"
-       d="m -116.60459,243.25341 c 0.27046,0 0.48783,0.21788 0.48783,0.48834 0,0.27046 -0.21737,0.48834 -0.48783,0.48834 h -0.52917 c 0.27046,0 0.48783,-0.21788 0.48783,-0.48834 0,-0.27046 -0.21737,-0.48834 -0.48783,-0.48834 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       d="m -140.2848,238.95393 c 0.27046,0 0.48783,0.21788 0.48783,0.48834 0,0.27046 -0.21737,0.48834 -0.48783,0.48834 h -0.52917 c 0.27046,0 0.48783,-0.21788 0.48783,-0.48834 0,-0.27046 -0.21737,-0.48834 -0.48783,-0.48834 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_left_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3429"
        style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
        d="m -111.89299,225.89373 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3431"
        style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
        d="m -116.65551,225.89373 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3433"
        style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
        d="m -115.06801,225.89373 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3435"
        style="display:inline;opacity:0.996;fill:#999999;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
        d="m -113.4805,225.89373 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:#b3b3b3;fill-opacity:0.996078;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -111.78282,238.55849 c 0,0 2.37891,6.17798 2.8164,6.43867 0.43749,0.26069 3.95821,0.21921 4.25257,0 0.29436,-0.21921 2.79731,-6.36604 2.79731,-6.36604 z"
+       d="m -93.027181,229.67178 c 0,0 2.37891,6.17798 2.8164,6.43867 0.43749,0.26069 3.95821,0.21921 4.25257,0 0.29436,-0.21921 2.79731,-6.36604 2.79731,-6.36604 z"
        id="path3437"
        sodipodi:nodetypes="czzcc"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_right_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -13290,10 +13273,10 @@
        id="rect3439"
        width="9.869978"
        height="16.505297"
-       x="-111.77567"
-       y="223.30818"
+       x="-93.020035"
+       y="214.42146"
        ry="1.4477601"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_right_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -13301,78 +13284,71 @@
        id="rect3441"
        width="9.869978"
        height="16.505297"
-       x="-110.71733"
-       y="223.30818"
+       x="-91.961693"
+       y="214.42146"
        ry="1.5422541"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_right_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3443"
        style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.168215"
-       d="m -105.45702,224.44167 a 3.4645216,3.5044868 0 0 0 -3.45421,3.5042 3.4645216,3.5044868 0 0 0 3.46422,3.50475 3.4645216,3.5044868 0 0 0 0.57014,-0.0484 3.4645216,3.5044868 0 0 1 -2.89409,-3.45632 3.4645216,3.5044868 0 0 1 2.89409,-3.45632 3.4645216,3.5044868 0 0 0 -0.57014,-0.0479 3.4645216,3.5044868 0 0 0 -0.009,0 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       d="m -86.701381,215.55496 a 3.4645216,3.5044868 0 0 0 -3.45421,3.5042 3.4645216,3.5044868 0 0 0 3.46422,3.50475 3.4645216,3.5044868 0 0 0 0.57014,-0.0484 3.4645216,3.5044868 0 0 1 -2.89409,-3.45632 3.4645216,3.5044868 0 0 1 2.89409,-3.45632 3.4645216,3.5044868 0 0 0 -0.57014,-0.0479 3.4645216,3.5044868 0 0 0 -0.009,0 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_right_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -110.72448,238.49167 c 0,0 2.37891,6.17798 2.8164,6.43867 0.43749,0.26069 3.95821,0.21921 4.25257,0 0.29436,-0.21921 2.79731,-6.36604 2.79731,-6.36604 z"
+       d="m -91.968841,229.60496 c 0,0 2.37891,6.17798 2.8164,6.43867 0.43749,0.26069 3.95821,0.21921 4.25257,0 0.29436,-0.21921 2.79731,-6.36604 2.79731,-6.36604 z"
        id="path3445"
        sodipodi:nodetypes="czzcc"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_right_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
        style="fill:#808080;fill-opacity:1;stroke-width:0.169182"
        id="circle3447"
-       cx="-105.04439"
-       cy="227.98254"
+       cx="-86.28875"
+       cy="219.09583"
        r="3.5044868"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_right_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3449"
        style="fill:#808080;fill-opacity:1;stroke-width:0.116067"
-       d="m -114.20268,225.26997 a 2.3680322,2.44101 0 0 0 -2.36782,2.44111 2.3680322,2.44101 0 0 0 2.36782,2.44061 2.3680322,2.44101 0 0 0 1.66897,-0.70954 h -1.24855 c -0.96316,0 -1.73819,-0.77554 -1.73819,-1.7387 v -0.058 c 0,-0.96316 0.77503,-1.7382 1.73819,-1.7382 h 1.17475 a 2.3680322,2.44101 0 0 0 -1.59517,-0.63726 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       d="m -110.62461,213.46 a 2.3680322,2.44101 0 0 0 -2.36782,2.44111 2.3680322,2.44101 0 0 0 2.36782,2.44061 2.3680322,2.44101 0 0 0 1.66897,-0.70954 h -1.24855 c -0.96316,0 -1.73819,-0.77554 -1.73819,-1.7387 v -0.058 c 0,-0.96316 0.77503,-1.7382 1.73819,-1.7382 h 1.17475 a 2.3680322,2.44101 0 0 0 -1.59517,-0.63726 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_up_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3451"
        style="opacity:0.996;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.151955;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m -114.75254,219.82381 c -0.51002,0 -0.92088,0.51527 -0.92088,1.1549 v 5.31858 l 3.37498,-0.51246 v -4.80612 c 0,-0.63963 -0.41034,-1.1549 -0.92036,-1.1549 z"
+       d="m -111.17447,208.01384 c -0.51002,0 -0.92088,0.51527 -0.92088,1.1549 v 5.31858 l 3.37498,-0.51246 v -4.80612 c 0,-0.63963 -0.41034,-1.1549 -0.92036,-1.1549 z"
        sodipodi:nodetypes="ssccsss"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       id="path3453"
-       style="fill:#808080;fill-opacity:1;stroke-width:0.116067"
-       d="m -113.67351,225.27587 a 2.4462194,2.3629893 75.868923 0 0 -2.36782,2.4011 2.4462194,2.3629893 75.868923 0 0 2.36782,2.48062 2.4462194,2.3629893 75.868923 0 0 1.66897,-0.68133 l -1.24855,-0.0211 c -0.96316,-0.0163 -1.73819,-0.80492 -1.73819,-1.76808 v -0.058 c 0,-0.96316 0.77503,-1.7251 1.73819,-1.70882 l 1.17475,0.0198 a 2.4462194,2.3629893 75.868923 0 0 -1.59517,-0.66422 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_up_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3455"
        style="fill:#999999;fill-opacity:1;stroke-width:0.116067"
-       d="m -113.67351,225.26997 a 2.3680322,2.44101 0 0 0 -2.36782,2.44111 2.3680322,2.44101 0 0 0 2.36782,2.44061 2.3680322,2.44101 0 0 0 1.66897,-0.70954 h -1.24855 c -0.96316,0 -1.73819,-0.77554 -1.73819,-1.7387 v -0.058 c 0,-0.96316 0.77503,-1.7382 1.73819,-1.7382 h 1.17475 a 2.3680322,2.44101 0 0 0 -1.59517,-0.63726 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       d="m -110.09544,213.46 a 2.3680322,2.44101 0 0 0 -2.36782,2.44111 2.3680322,2.44101 0 0 0 2.36782,2.44061 2.3680322,2.44101 0 0 0 1.66897,-0.70954 h -1.24855 c -0.96316,0 -1.73819,-0.77554 -1.73819,-1.7387 v -0.058 c 0,-0.96316 0.77503,-1.7382 1.73819,-1.7382 h 1.17475 a 2.3680322,2.44101 0 0 0 -1.59517,-0.63726 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_up_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3457"
        style="opacity:0.996;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.151955;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m -114.22337,219.82381 c -0.51002,0 -0.92088,0.51527 -0.92088,1.1549 v 5.31858 l 3.37498,-0.51246 v -4.80612 c 0,-0.63963 -0.41034,-1.1549 -0.92036,-1.1549 z"
+       d="m -110.6453,208.01384 c -0.51002,0 -0.92088,0.51527 -0.92088,1.1549 v 5.31858 l 3.37498,-0.51246 v -4.80612 c 0,-0.63963 -0.41034,-1.1549 -0.92036,-1.1549 z"
        sodipodi:nodetypes="ssccsss"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_up_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3459"
        style="fill:#999999;fill-opacity:1;stroke-width:0.116067"
-       d="m -113.14434,225.27587 a 2.4462194,2.3629893 75.868923 0 0 -2.36782,2.4011 2.4462194,2.3629893 75.868923 0 0 2.36782,2.48062 2.4462194,2.3629893 75.868923 0 0 1.66897,-0.68133 l -1.24855,-0.0211 c -0.96316,-0.0163 -1.73819,-0.80492 -1.73819,-1.76808 v -0.058 c 0,-0.96316 0.77503,-1.7251 1.73819,-1.70882 l 1.17475,0.0198 a 2.4462194,2.3629893 75.868923 0 0 -1.59517,-0.66422 z"
-       inkscape:export-filename="C:\Users\drasaev\YandexDisk-mitya.rasaev\Gdev\Robo keeper\Assets\Drawing\Objects\Crane_part1.png"
+       d="m -109.56627,213.4659 a 2.4462194,2.3629893 75.868923 0 0 -2.36782,2.4011 2.4462194,2.3629893 75.868923 0 0 2.36782,2.48062 2.4462194,2.3629893 75.868923 0 0 1.66897,-0.68133 l -1.24855,-0.0211 c -0.96316,-0.0163 -1.73819,-0.80492 -1.73819,-1.76808 v -0.058 c 0,-0.96316 0.77503,-1.7251 1.73819,-1.70882 l 1.17475,0.0198 a 2.4462194,2.3629893 75.868923 0 0 -1.59517,-0.66422 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_up_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -14553,5 +14529,33 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
     </g>
+    <path
+       id="path3684"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -113.4805,225.89373 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3680"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -108.1888,225.89373 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3682"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -106.07212,225.89373 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3685"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.483027;stroke-linecap:round"
+       d="m -103.95544,226.09217 c -0.97788,0 -1.76475,0.67085 -1.76475,1.50454 v 0.0502 c 0,0.83369 0.78687,1.50499 1.76475,1.50499 h 0.52916 c -0.97787,0 -1.76475,-0.6713 -1.76475,-1.50499 v -0.0502 c 0,-0.83369 0.78688,-1.50454 1.76475,-1.50454 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>

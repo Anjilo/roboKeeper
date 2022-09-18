@@ -6,6 +6,7 @@
 
     local robotModule = require("Core.Objects.Robot.Robot" )
     local enemyRobotModule = require("Core.Objects.EnemyRobot.EnemyRobot")
+    local gripperModule = require("Core.Objects.Gripper.Gripper")
 -- consts
 -----------------------------------------------------------------------------------------
     local const MAP_PATH = "Assets/TiledMaps/GameScene.json"
@@ -40,12 +41,24 @@
             return robot
         end
 
+        function _model.initGripper(_map)
+            local gripper = {}
+            gripper = gripperModule.new(_map)
+
+            return gripper
+        end
+
         function _model.initEnemyRobot(_map)
             local enemyRobot = {}
             enemyRobot = enemyRobotModule.new(_map)
 
+            local gripper = _model.initGripper(_map)
+            gripper:ungrip()
+            enemyRobot:setGripper(gripper)
+
             return enemyRobot        
         end
+
     end
 
 return M

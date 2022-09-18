@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="90" height="160" tilewidth="8" tileheight="8" infinite="0" backgroundcolor="#373e48" nextlayerid="28" nextobjectid="138">
+<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="90" height="160" tilewidth="8" tileheight="8" infinite="0" backgroundcolor="#373e48" nextlayerid="29" nextobjectid="146">
  <editorsettings>
   <export target="GameScene.json" format="json"/>
  </editorsettings>
  <properties>
   <property name="bodyType" value="kinematic"/>
  </properties>
- <tileset firstgid="1" name="Objects" tilewidth="405" tileheight="390" tilecount="23" columns="0">
+ <tileset firstgid="1" name="Objects" tilewidth="405" tileheight="390" tilecount="27" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
    <image width="121" height="121" source="../Objects/Background.png"/>
@@ -36,10 +36,10 @@
    <image width="89" height="96" source="../Objects/Crane_part1.png"/>
   </tile>
   <tile id="9">
-   <image width="12" height="362" source="../Objects/Crane_part2.png"/>
+   <image width="12" height="362" source="../Objects/gripper_rope.png"/>
   </tile>
   <tile id="10">
-   <image width="88" height="60" source="../Objects/Crane_part3.png"/>
+   <image width="88" height="60" source="../Objects/gripper_binding.png"/>
   </tile>
   <tile id="11">
    <image width="405" height="45" source="../Objects/Floor.png"/>
@@ -77,8 +77,20 @@
   <tile id="23">
    <image width="50" height="43" source="../Objects/RoofCorner.png"/>
   </tile>
+  <tile id="29">
+   <image width="41" height="83" source="../Objects/gripper_left_part.png"/>
+  </tile>
+  <tile id="30">
+   <image width="68" height="19" source="../Objects/gripper_mid_down_part.png"/>
+  </tile>
+  <tile id="31">
+   <image width="19" height="39" source="../Objects/gripper_mid_up_part.png"/>
+  </tile>
+  <tile id="32">
+   <image width="41" height="83" source="../Objects/gripper_right_part.png"/>
+  </tile>
  </tileset>
- <tileset firstgid="30" source="Objects.tsx"/>
+ <tileset firstgid="34" source="Objects.tsx"/>
  <objectgroup id="20" name="Background0">
   <object id="111" gid="1" x="-52" y="1258.33" width="801" height="1305"/>
  </objectgroup>
@@ -134,8 +146,11 @@
    </properties>
   </object>
  </objectgroup>
+ <objectgroup id="28" name="Gripper">
+  <object id="145" name="Gripper" gid="9" x="308" y="354" width="89" height="96"/>
+ </objectgroup>
  <objectgroup id="14" name="Box">
-  <object id="75" name="Box" gid="6" x="300.333" y="398.667" width="122" height="85"/>
+  <object id="75" name="Box" gid="6" x="257.333" y="512.667" width="122" height="85"/>
  </objectgroup>
  <objectgroup id="21" name="Enemy">
   <object id="120" name="EnemyRobot" gid="29" x="565.333" y="137" width="115.945" height="131.667"/>
@@ -145,14 +160,12 @@
   <object id="52" gid="20" x="297" y="182" width="390" height="37"/>
  </objectgroup>
  <objectgroup id="10" name="Веревка">
-  <object id="68" name="Rope" gid="10" x="341.333" y="264.333" width="12" height="68"/>
+  <object id="68" name="GripperBindingRope" gid="10" x="341.333" y="264.333" width="12" height="68"/>
  </objectgroup>
- <objectgroup id="11" name="1">
-  <object id="72" name="GripperUpper" gid="11" x="306.667" y="216.333" width="88" height="60"/>
+ <objectgroup id="11" name="GripperUpper">
+  <object id="72" name="GripperBinding" gid="11" x="306.667" y="216.333" width="88" height="60"/>
  </objectgroup>
- <objectgroup id="12" name="Захват">
-  <object id="73" name="Gripper" gid="9" x="306.917" y="348.917" width="89" height="96"/>
- </objectgroup>
+ <objectgroup id="12" name="Захват"/>
  <objectgroup id="9" name="Балка_передний_план">
   <object id="65" gid="26" x="34.67" y="176.667" width="390" height="43"/>
   <object id="66" gid="28" x="261.667" y="176.667" width="390" height="43"/>
