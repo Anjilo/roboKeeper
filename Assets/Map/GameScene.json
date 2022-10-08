@@ -544,19 +544,7 @@
          "draworder":"topdown",
          "id":14,
          "name":"Box",
-         "objects":[
-                {
-                 "gid":6,
-                 "height":85,
-                 "id":75,
-                 "name":"Box",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":122,
-                 "x":257.333,
-                 "y":512.667
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,

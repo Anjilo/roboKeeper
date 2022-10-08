@@ -149,9 +149,7 @@
  <objectgroup id="28" name="Gripper">
   <object id="145" name="Gripper" gid="9" x="308" y="354" width="89" height="96"/>
  </objectgroup>
- <objectgroup id="14" name="Box">
-  <object id="75" name="Box" gid="6" x="257.333" y="512.667" width="122" height="85"/>
- </objectgroup>
+ <objectgroup id="14" name="Box"/>
  <objectgroup id="21" name="Enemy">
   <object id="120" name="EnemyRobot" gid="29" x="565.333" y="137" width="115.945" height="131.667"/>
  </objectgroup>

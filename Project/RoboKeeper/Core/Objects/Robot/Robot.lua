@@ -51,10 +51,11 @@
             }
         }
 
-        local instance = _map:findObject("MainRobot")    
+        local instance = _map:findObject("MainRobot") 
+        local isAlive = true   
         -- local currentvelocityFactor =  STD_VELOCITY_FACTOR -- that one can be modified after collision events (see onCollision method)  
 
-        local sheet = {}
+        local sheet = graphics.newImageSheet(IMAGE_SHEET_FILENAME, sheetInfo:getSheet())
 
     -- constructor
     ----------------------------------------------------------------------------------------
@@ -65,14 +66,20 @@
         instance.isBodyActive = false
 
         -- creating new instance
-        sheet = graphics.newImageSheet(IMAGE_SHEET_FILENAME, sheetInfo:getSheet())
         instance = display.newSprite( sheet , sequenceData )
         instance.x = x
         instance.y = y
+        instance.name = "Robot"
         instance:scale(1.5, 1.5)
         instance:setSequence(IDLE_SEQ_NAME)
         instance:play()
         physics.addBody(instance)
+
+    -- isAlive getter
+    ----------------------------------------------------------------------------------------
+        function instance:isAlive()
+            return isAlive
+        end
 
     -- change direction method
     ----------------------------------------------------------------------------------------
@@ -91,12 +98,32 @@
             end
         end
 
-    -- move method--
+    -- move method
     ----------------------------------------------------------------------------------------
         function instance:move(_speed)
-            self:updateDirection(_speed <= 0)
-            self.x = self.x + _speed
+            if (isAlive == true) then
+                self:updateDirection(_speed <= 0)
+                self.x = self.x + _speed
+            end
         end   
+
+    -- die method
+    ----------------------------------------------------------------------------------------
+        function instance:die()
+            self:setSequence(DEAD_SEQ_NAME)
+            self:play()
+
+            isAlive = false
+        end
+
+    -- revive method
+    ----------------------------------------------------------------------------------------
+    function instance:revive()
+        self:setSequence(RUN_BCKRWRD_SEQ_NAME)
+        self:play()
+
+        isAlive = true
+    end
 
         return instance
     end
