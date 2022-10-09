@@ -159,7 +159,7 @@
   </object>
  </objectgroup>
  <objectgroup id="28" name="Gripper">
-  <object id="145" name="Gripper" gid="9" x="308" y="354" width="89" height="96"/>
+  <object id="145" name="Gripper" gid="9" x="314" y="375.333" width="89" height="96"/>
  </objectgroup>
  <objectgroup id="14" name="Box"/>
  <objectgroup id="21" name="Enemy">
@@ -170,10 +170,10 @@
   <object id="52" gid="20" x="297" y="182" width="390" height="37"/>
  </objectgroup>
  <objectgroup id="10" name="Веревка">
-  <object id="68" name="GripperBindingRope" gid="10" x="341.333" y="264.333" width="12" height="68"/>
+  <object id="68" name="GripperBindingRope" gid="10" x="347.333" y="285.666" width="12" height="68"/>
  </objectgroup>
  <objectgroup id="11" name="GripperUpper">
-  <object id="72" name="GripperBinding" gid="11" x="306.667" y="216.333" width="88" height="60"/>
+  <object id="72" name="GripperBinding" gid="11" x="312.667" y="236.666" width="88" height="60"/>
  </objectgroup>
  <objectgroup id="12" name="Захват"/>
  <objectgroup id="9" name="Балка_передний_план">

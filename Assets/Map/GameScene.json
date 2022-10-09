@@ -575,8 +575,8 @@
                  "type":"",
                  "visible":true,
                  "width":89,
-                 "x":308,
-                 "y":354
+                 "x":314,
+                 "y":375.333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -667,8 +667,8 @@
                  "type":"",
                  "visible":true,
                  "width":12,
-                 "x":341.333,
-                 "y":264.333
+                 "x":347.333,
+                 "y":285.666333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -690,8 +690,8 @@
                  "type":"",
                  "visible":true,
                  "width":88,
-                 "x":306.667,
-                 "y":216.333
+                 "x":312.667,
+                 "y":236.666333333333
                 }],
          "opacity":1,
          "type":"objectgroup",

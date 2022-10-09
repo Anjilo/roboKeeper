@@ -60,16 +60,16 @@
         group:insert(gripperBinding)
 
         gripperMidUp.x, gripperMidUp.y = x, y - gripperMidUp.height / 3.5 - gripperRope.height / 3
-        gripperRight.x, gripperRight.y = x + gripperMidDown.width / 2, y + gripperRight.height / 3.5 - gripperRope.height / 3
-        gripperLeft.x, gripperLeft.y = x - gripperMidDown.width / 1.5, y + gripperLeft.height / 3.5 - gripperRope.height / 3
+        gripperRight.x, gripperRight.y = x + gripperMidDown.width / 2.25, y + gripperRight.height / 3.5 - gripperRope.height / 3
+        gripperLeft.x, gripperLeft.y = x - gripperMidDown.width / 2.25, y + gripperLeft.height / 3.5 - gripperRope.height / 3
         gripperMidDown.x, gripperMidDown.y = x, y - gripperRope.height / 3
 
         local function getGripperLeftOffset()
-            return (-1) * gripperMidDown.width / 1.5
+            return (-1) * gripperMidDown.width / 2.25
         end
 
         local function getGripperMidDownOffset()
-            return  (-1) * gripperMidDown.width / 4.5
+            return 0
         end
         
         local function getGripperMidUpOffset()
@@ -77,7 +77,7 @@
         end
 
         local function getGripperRightOffset()
-            return gripperMidDown.width / 2    
+            return gripperMidDown.width / 2.25  
         end
 
         local function getGripperRopeOffset()
@@ -97,7 +97,7 @@
         local function setBox(_box)
             box = _box
             box.blocked = true
-            box.x = gripperRope.x
+            box.x = gripperRope.x + box.width * 0.05
             box.y = gripperMidDown.y + (box.height / 3) * 2
             group:insert(box)
             gripperRight:toFront()
