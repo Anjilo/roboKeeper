@@ -8,6 +8,7 @@
     local const STD_VELOCITY_FACTOR = 50
     local const BOXES_AMOUNT = 12
     local const AIM_TIME = 3000
+    local const SCORE_SYMBOLS_SIZE = 180
 -- declarations
 ----------------------------------------------------------------------------------------
     local scene = composer.newScene()
@@ -23,18 +24,30 @@
     local xBorderRight = -1
 
     local aimTimer = nil
-    
-    local isPlaying = true 
+    local isPlaying = true
+    local score = 0 
+    local maxScore = 0
+    local scoreText = nil
 
     local endGameEvent = { name = END_GAME_EVENT_NAME, target = Runtime }
 -- source
 ----------------------------------------------------------------------------------------
+    local function scoreTextBuilder(_currentScore, _maxScore)
+        scoreText.text = tostring(_currentScore) .. " / " .. tostring(_maxScore)
+    end
+
     function scene:create(_event)                  
         physics.start()
         physics.setGravity(0, 0)
         
         modelModule.new(sceneModel, scene)
         mapView = sceneModel:initMap()
+        
+        maxScore = sceneModel:loadScore()
+        scoreText = display.newText(tostring(score), display.contentCenterX, display.contentCenterY, native.systemFontBold, SCORE_SYMBOLS_SIZE)
+        scoreText:setFillColor(0.73, 0.73, 0.78)
+        scoreText:toFront()
+
         mainRobotView = sceneModel:initMainRobot(mapView)
         enemyRobotView = sceneModel:initEnemyRobot(mapView, mainRobotView, BOXES_AMOUNT)
         reloadButtonView = sceneModel:initReloadButton(mapView)
@@ -71,21 +84,32 @@
         if (isPlaying == true) then
             enemyRobotView:execute()
         end
+
+        scoreTextBuilder(score, maxScore)
     end
 
     local function onCollision(_event)
         if (_event.phase == "began") then
             local boxAndRobotCollids = ((_event.object1.name == "Robot") and (_event.object2.name == "Box")) or ((_event.object1.name == "Box") and (_event.object2.name == "Robot"))
-            if (boxAndRobotCollids == true) and (mainRobotView:isAlive()) then
-                isPlaying = false             
+            if (boxAndRobotCollids == true) and (mainRobotView:isAlive()) then          
                 mainRobotView:die()
                 Runtime:dispatchEvent(endGameEvent)
+            end
+
+            local boxAndFloorCollids = ((_event.object1.name == "Floor") and (_event.object2.name == "Box")) or ((_event.object1.name == "Floor") and (_event.object2.name == "Robot"))
+            if (boxAndFloorCollids == true) and (isPlaying == true) then
+                score = score + 1
             end
         end
     end
 
     local function onEndGame(_event)
         isPlaying = false
+
+        if (score > maxScore) then
+            sceneModel:saveScore(score)
+            maxScore = score
+        end
     end
 
     local function onUI(_event)
@@ -93,7 +117,9 @@
             boxes[i].x = display.contentCenterX - display.contentWidth 
         end
 
+        enemyRobotView:reset()
         mainRobotView:revive()
+        score = 0
         isPlaying = true
     end
     

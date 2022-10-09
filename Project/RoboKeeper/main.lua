@@ -20,6 +20,8 @@
     COLL_DET_EVENT_NAME = "collision"
     END_GAME_EVENT_NAME = "endGame"
     UI_EVENT_NAME = "ui"
+
+    SCORE_FILE_NAME = "score.txt"
 -- source
 -----------------------------------------------------------------------------------------
     system.setAccelerometerInterval(50)

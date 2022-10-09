@@ -103,7 +103,8 @@
     -- reset
     -----------------------------------------------------------------------------------------             
         function instance:reset()
-            instance.execute = reloadStatus
+            gripper:reset()
+            self.execute = reloadStatus
         end
 
     -- reload position getter

@@ -112,6 +112,16 @@
             end
         end 
 
+    -- gripper reset
+        function instance:reset()
+            if (box ~= nil) then
+                gripped = false
+                box.x = display.contentCenterX - display.contentWidth
+                box.blocked = false
+                box = nil
+            end
+        end
+
     -- getter group position
     -----------------------------------------------------------------------------------------            
         function instance:getPosition()
@@ -136,7 +146,7 @@
             if (gripped == false) then
                 gripperLeft.x = gripperLeft.x + GRIPPER_PLATES_OFFSET
                 gripperRight.x = gripperRight.x - GRIPPER_PLATES_OFFSET
-                gripperMidDown.x = gripperMidDown.x + GRIPPER_PLATES_OFFSET
+                gripperMidDown.x = gripperMidDown.x + GRIPPER_PLATES_OFFSET 
 
                 if (_box ~= nil) then
                     setBox(_box)

@@ -22,6 +22,27 @@
     -----------------------------------------------------------------------------------------
         local presenter = _presenter
 
+        function _model:saveScore(_score)
+            local path = system.pathForFile(SCORE_FILE_NAME, system.DocumentsDirectory)
+            local file = io.open(path, "w")
+            
+            file:write(_score)
+            file:close()
+        end
+
+        function _model:loadScore()
+            local path = system.pathForFile(SCORE_FILE_NAME, system.DocumentsDirectory)
+            local file = io.open(path, "r")
+
+            local result = 0
+            if (file ~= nil) then
+                result = file:read("*n")
+                file:close()
+            end
+
+            return result
+        end  
+
         function _model:initMap()    
             local mapData = json.decodeFile(system.pathForFile(MAP_PATH, system.ResourceDirectory))
             local map = tiledModule.new(mapData, ASSETS_PATH)
@@ -77,6 +98,8 @@
         function _model:initBorders(_map)
             local wallRight = _map:findObject("WallRight")
             local wallLeft = _map:findObject("WallLeft")
+            local floor = _map:findObject("Floor")
+            floor.isVisible = false
             local xBorderRight = wallRight.x - wallRight.width 
             local xBorderleft = wallLeft.x + wallLeft.width
 
