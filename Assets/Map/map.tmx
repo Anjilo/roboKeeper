@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="90" height="160" tilewidth="8" tileheight="8" infinite="0" backgroundcolor="#373e48" nextlayerid="29" nextobjectid="146">
+<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="90" height="160" tilewidth="8" tileheight="8" infinite="0" backgroundcolor="#373e48" nextlayerid="29" nextobjectid="147">
  <editorsettings>
   <export target="GameScene.json" format="json"/>
  </editorsettings>
  <properties>
   <property name="bodyType" value="kinematic"/>
  </properties>
- <tileset firstgid="1" name="Objects" tilewidth="405" tileheight="390" tilecount="27" columns="0">
+ <tileset firstgid="1" name="Objects" tilewidth="432" tileheight="390" tilecount="28" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
    <image width="121" height="121" source="../Objects/Background.png"/>
@@ -89,8 +89,11 @@
   <tile id="32">
    <image width="41" height="83" source="../Objects/gripper_right_part.png"/>
   </tile>
+  <tile id="33">
+   <image width="432" height="172" source="../Objects/ReloadButton.png"/>
+  </tile>
  </tileset>
- <tileset firstgid="34" source="Objects.tsx"/>
+ <tileset firstgid="35" source="Objects.tsx"/>
  <objectgroup id="20" name="Background0">
   <object id="111" gid="1" x="-52" y="1258.33" width="801" height="1305"/>
  </objectgroup>
@@ -145,6 +148,7 @@
     <property name="isSensor" type="bool" value="true"/>
    </properties>
   </object>
+  <object id="146" name="ReloadButton" type="button" gid="34" x="152" y="906" width="432" height="172"/>
  </objectgroup>
  <objectgroup id="28" name="Gripper">
   <object id="145" name="Gripper" gid="9" x="308" y="354" width="89" height="96"/>

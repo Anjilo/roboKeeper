@@ -16,14 +16,17 @@
     local mapView = nil
     local mainRobotView = nil
     local enemyRobot = nil
-    local currentBoxId = 0
+    local reloadButtonView = nil
 
+    local currentBoxId = 0
     local xBorderLeft = -1
     local xBorderRight = -1
 
     local aimTimer = nil
     
     local isPlaying = true 
+
+    local endGameEvent = { name = END_GAME_EVENT_NAME, target = Runtime }
 -- source
 ----------------------------------------------------------------------------------------
     function scene:create(_event)                  
@@ -34,6 +37,7 @@
         mapView = sceneModel:initMap()
         mainRobotView = sceneModel:initMainRobot(mapView)
         enemyRobotView = sceneModel:initEnemyRobot(mapView, mainRobotView, BOXES_AMOUNT)
+        reloadButtonView = sceneModel:initReloadButton(mapView)
         xBorderLeft, xBorderRight = sceneModel:initBorders(mapView)
     end
 
@@ -74,9 +78,23 @@
             local boxAndRobotCollids = ((_event.object1.name == "Robot") and (_event.object2.name == "Box")) or ((_event.object1.name == "Box") and (_event.object2.name == "Robot"))
             if (boxAndRobotCollids == true) and (mainRobotView:isAlive()) then
                 isPlaying = false             
-                mainRobotView:die()   
+                mainRobotView:die()
+                Runtime:dispatchEvent(endGameEvent)
             end
         end
+    end
+
+    local function onEndGame(_event)
+        isPlaying = false
+    end
+
+    local function onUI(_event)
+        for i = 0, #boxes do
+            boxes[i].x = display.contentCenterX - display.contentWidth 
+        end
+
+        mainRobotView:revive()
+        isPlaying = true
     end
     
 -- lisneres setup    
@@ -88,5 +106,7 @@
     Runtime:addEventListener( ACC_EVENT_NAME, onAccelerometer )
     Runtime:addEventListener( ENTER_FRAME_EVENT_NAME, onEnterFrame )
     Runtime:addEventListener( COLL_DET_EVENT_NAME, onCollision )
+    Runtime:addEventListener( END_GAME_EVENT_NAME, onEndGame )
+    Runtime:addEventListener( UI_EVENT_NAME, onUI )
 -----------------------------------------------------------------------------------------
 return scene

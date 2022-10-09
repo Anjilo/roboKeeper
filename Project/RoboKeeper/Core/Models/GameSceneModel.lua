@@ -8,6 +8,7 @@
     local enemyRobotModule = require("Core.Objects.EnemyRobot.EnemyRobot")
     local gripperModule = require("Core.Objects.Gripper.Gripper")
     local boxModule = require("Core.Objects.Box.Box")
+    local reloadButtonModule = require("Core.Objects.ReloadButton.ReloadButton")
 -- consts
 -----------------------------------------------------------------------------------------
     local const MAP_PATH = "Assets/TiledMaps/GameScene.json"
@@ -80,6 +81,13 @@
             local xBorderleft = wallLeft.x + wallLeft.width
 
             return xBorderleft, xBorderRight
+        end
+
+        function _model:initReloadButton(_map)
+            local button = {}
+            button = reloadButtonModule.new(_map)
+
+            return button
         end
     end
 

@@ -119,6 +119,7 @@
     -- revive method
     ----------------------------------------------------------------------------------------
     function instance:revive()
+        self.x = display.contentCenterX
         self:setSequence(RUN_BCKRWRD_SEQ_NAME)
         self:play()
 

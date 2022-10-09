@@ -23,14 +23,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="-383.82151"
-     inkscape:cy="842.09927"
+     inkscape:zoom="1.158168"
+     inkscape:cx="1081.0381"
+     inkscape:cy="803.26756"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -14557,5 +14557,90 @@
        inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <path
+       id="circle4255-3"
+       style="opacity:0.996;fill:#c83737;fill-opacity:1;stroke-width:2.119;stroke-linecap:round"
+       d="m -366.25337,122.28518 c 0,3.06288 -1.24148,5.8358 -3.24868,7.843 -1.0036,1.0036 -2.19863,1.81577 -3.52562,2.37704 -1.32699,0.56127 -2.78594,0.87164 -4.31738,0.87164 -3.06288,0 -5.83581,-1.24148 -7.84301,-3.24868 -2.0072,-2.0072 -3.24868,-4.78012 -3.24868,-7.843 0,-3.06289 1.24148,-5.83581 3.24868,-7.84301 2.0072,-2.0072 4.78012,-3.24868 7.84301,-3.24868 3.03025,0.0691 5.84748,1.282 7.843,3.24868 2.0072,2.0072 3.24868,4.78013 3.24868,7.84301 z"
+       sodipodi:nodetypes="sssssssccs" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.996;fill:#782121;fill-opacity:1;stroke-width:0.980059;stroke-linecap:round"
+       id="path4259-6"
+       sodipodi:sides="3"
+       sodipodi:cx="167.11896"
+       sodipodi:cy="121.63951"
+       sodipodi:r1="7.3249002"
+       sodipodi:r2="3.6624501"
+       sodipodi:arg1="1.0202469"
+       sodipodi:arg2="2.0674445"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-x="-1.9106632"
+       inkscape:transform-center-y="-0.098693274"
+       transform="matrix(-1.0948797,0,0,1,-128.86773,-15.614412)"
+       d="m 170.95102,127.88206 -11.1543,-6.04516 10.81242,-6.63733 z" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.996;fill:#a02c2c;fill-opacity:1;stroke-width:0.980059;stroke-linecap:round"
+       id="path4261-6"
+       sodipodi:sides="3"
+       sodipodi:cx="312.20647"
+       sodipodi:cy="106.0251"
+       sodipodi:r1="7.3249002"
+       sodipodi:r2="3.6624501"
+       sodipodi:arg1="1.0202469"
+       sodipodi:arg2="2.0674445"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-x="-1.7450912"
+       inkscape:transform-center-y="-0.098693274"
+       transform="scale(-1,1)"
+       d="m 316.03854,112.26765 -11.1543,-6.04516 10.81242,-6.637329 z" />
+    <g
+       id="g4598"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:0.996;fill:#000000;fill-opacity:0;stroke:none;stroke-width:1.23969;stroke-linecap:round;stroke-opacity:0.992157"
+         id="rect4590"
+         width="114.22494"
+         height="45.461529"
+         x="227.05679"
+         y="199.67201" />
+      <g
+         id="g4588"
+         transform="translate(175.68333,71.4375)">
+        <rect
+           style="opacity:0.996;fill:#ffffff;fill-opacity:0.996078;stroke:none;stroke-width:2.72389;stroke-linecap:round;stroke-opacity:0.992157"
+           id="rect4580"
+           width="101.31071"
+           height="33.463921"
+           x="57.760044"
+           y="134.5417"
+           ry="16.73196" />
+        <rect
+           style="opacity:0.996;fill:#c83737;fill-opacity:0.996078;stroke:none;stroke-width:2.52721;stroke-linecap:round;stroke-opacity:0.992157"
+           id="rect3743"
+           width="97.796394"
+           height="29.840643"
+           x="59.587742"
+           y="136.38763"
+           ry="14.920321" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.8511px;line-height:1.25;font-family:Broadway;-inkscape-font-specification:'Broadway Bold';fill:#57090c;fill-opacity:1;stroke-width:0.446277"
+           x="85.944496"
+           y="139.40921"
+           id="text4570"
+           transform="scale(0.88255622,1.1330723)"><tspan
+             sodipodi:role="line"
+             id="tspan4568"
+             x="85.944496"
+             y="139.40921"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Broadway;-inkscape-font-specification:'Broadway Bold';fill:#57090c;fill-opacity:1;stroke-width:0.446277">RELOAD</tspan></text>
+      </g>
+    </g>
   </g>
 </svg>

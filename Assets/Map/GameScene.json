@@ -508,6 +508,18 @@
                  "width":71.3721,
                  "x":322.5,
                  "y":1240.17
+                }, 
+                {
+                 "gid":34,
+                 "height":172,
+                 "id":146,
+                 "name":"ReloadButton",
+                 "rotation":0,
+                 "type":"button",
+                 "visible":true,
+                 "width":432,
+                 "x":152,
+                 "y":906
                 }],
          "offsetx":8,
          "offsety":28,
@@ -811,7 +823,7 @@
          "y":0
         }],
  "nextlayerid":29,
- "nextobjectid":146,
+ "nextobjectid":147,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -835,7 +847,7 @@
          "margin":0,
          "name":"Objects",
          "spacing":0,
-         "tilecount":27,
+         "tilecount":28,
          "tileheight":390,
          "tiles":[
                 {
@@ -999,11 +1011,17 @@
                  "image":"..\/Objects\/gripper_right_part.png",
                  "imageheight":83,
                  "imagewidth":41
+                }, 
+                {
+                 "id":33,
+                 "image":"..\/Objects\/ReloadButton.png",
+                 "imageheight":172,
+                 "imagewidth":432
                 }],
-         "tilewidth":405
+         "tilewidth":432
         }, 
         {
-         "firstgid":34,
+         "firstgid":35,
          "source":"Objects.tsx"
         }],
  "tilewidth":8,

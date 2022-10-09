@@ -100,6 +100,12 @@
             return gripper
         end
 
+    -- reset
+    -----------------------------------------------------------------------------------------             
+        function instance:reset()
+            instance.execute = reloadStatus
+        end
+
     -- reload position getter
     -----------------------------------------------------------------------------------------     
         local function getReloadPosition()

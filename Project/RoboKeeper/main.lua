@@ -18,6 +18,8 @@
     DESTROY_SCENE_EVENT_NAME = "destroy"
     ACC_EVENT_NAME = "accelerometer"
     COLL_DET_EVENT_NAME = "collision"
+    END_GAME_EVENT_NAME = "endGame"
+    UI_EVENT_NAME = "ui"
 -- source
 -----------------------------------------------------------------------------------------
     system.setAccelerometerInterval(50)
