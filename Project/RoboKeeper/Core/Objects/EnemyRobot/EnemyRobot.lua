@@ -17,6 +17,12 @@
         local const HAPPY_SEQ_NAME = "IdleHappy"
         local const MAX_ANGRY_SEQ_NAME = "MaxAngry"
 
+        local const STATUS_ARRAY = {CONTROL_SEQ_NAME, HAPPY_SEQ_NAME, ANGRY_SEQ_NAME, MAX_ANGRY_SEQ_NAME}
+        local const CONTROL_SEQ_ID = 1
+        local const HAPPY_SEQ_ID = 2
+        local const ANGRY_SEQ_ID = 3
+        local const MAX_ANGRY_SEQ_ID = 4
+
         local const MIN_TRACKING_TIME = 19
         local const MAX_TRACKING_TIME = 35
     -- private decls
@@ -61,6 +67,7 @@
         local preTrackingStatus = nil
         local trackingStatus = nil
         local reloadStatus = nil
+        local angryStatus = nil
     -- public decls
     -----------------------------------------------------------------------------------------         
         instance.name = "EnemyRobot"    
@@ -158,7 +165,7 @@
                 else
                     gripper:absMove(trackingInstance.x)
                 end
-                -- 
+                --
 
                 currentTrackingTime = currentTrackingTime - 1
                 if (currentTrackingTime <= 0) then

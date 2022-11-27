@@ -13,7 +13,10 @@
    version="1.1"
    id="svg13913"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="robot.svg">
+   sodipodi:docname="robot.svg"
+   inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs13907" />
   <sodipodi:namedview
@@ -23,14 +26,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.158168"
-     inkscape:cx="1081.0381"
-     inkscape:cy="803.26756"
+     inkscape:zoom="6.5515873"
+     inkscape:cx="-406.87248"
+     inkscape:cy="877.93904"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -14539,21 +14542,14 @@
     <path
        id="path3680"
        style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
-       d="m -108.1888,225.89373 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       d="m -108.71797,225.89373 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
        inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path3682"
        style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
-       d="m -106.07212,225.89373 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
-       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       id="path3685"
-       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.483027;stroke-linecap:round"
-       d="m -103.95544,226.09217 c -0.97788,0 -1.76475,0.67085 -1.76475,1.50454 v 0.0502 c 0,0.83369 0.78687,1.50499 1.76475,1.50499 h 0.52916 c -0.97787,0 -1.76475,-0.6713 -1.76475,-1.50499 v -0.0502 c 0,-0.83369 0.78688,-1.50454 1.76475,-1.50454 z"
+       d="m -107.13046,225.89373 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
        inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -14642,5 +14638,146 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Broadway;-inkscape-font-specification:'Broadway Bold';fill:#57090c;fill-opacity:1;stroke-width:0.446277">RELOAD</tspan></text>
       </g>
     </g>
+    <ellipse
+       style="display:inline;fill:#999999;fill-opacity:1;stroke-width:0.11784"
+       id="ellipse3407-6"
+       cx="-119.11999"
+       cy="244.25902"
+       rx="2.4042058"
+       ry="2.4782984"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3409-0"
+       style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.117166"
+       d="m -119.76612,241.75499 a 2.3767882,2.4782984 0 0 0 -2.36972,2.47809 2.3767882,2.4782984 0 0 0 2.37659,2.47848 2.3767882,2.4782984 0 0 0 0.39113,-0.0342 2.3767882,2.4782984 0 0 1 -1.98545,-2.44424 2.3767882,2.4782984 0 0 1 1.98545,-2.44423 2.3767882,2.4782984 0 0 0 -0.39113,-0.0338 2.3767882,2.4782984 0 0 0 -0.006,0 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="display:inline;opacity:0.996;fill:#cccccc;fill-opacity:1;stroke-width:0.619193;stroke-linecap:round"
+       id="rect3411-2"
+       width="3.589144"
+       height="22.805988"
+       x="-246.0168"
+       y="-120.45821"
+       ry="1.794572"
+       transform="rotate(-90)"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3413-8"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -111.70106,242.42778 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3429-8"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -113.28857,242.42778 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3431-8"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -118.05109,242.42778 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3433-1"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -116.46359,242.42778 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3435-1"
+       style="display:inline;opacity:0.996;fill:#999999;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -114.87608,242.42778 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3684-5"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -114.87608,242.42778 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3680-2"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -110.11355,242.42778 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3682-1"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -108.52604,242.42778 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path4664"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -106.93853,242.42778 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path4666"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -105.35102,242.42778 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path4668"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -103.76351,242.42778 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path4670"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -102.176,242.42778 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path4672"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -100.58849,242.42778 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path4674"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.459391;stroke-linecap:round"
+       d="m -99.404879,242.42766 c -0.754071,0 -1.360851,0.78689 -1.360851,1.76481 v 0.0589 c 0,0.9779 0.60678,1.76533 1.360851,1.76533 h 0.40805 c -0.754065,0 -1.360851,-0.78743 -1.360851,-1.76533 v -0.0589 c 0,-0.97792 0.606786,-1.76481 1.360851,-1.76481 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path4676"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.523131;stroke-linecap:round"
+       d="m -105.54295,225.89373 c -0.97788,0 -1.76475,0.78687 -1.76475,1.76475 v 0.0589 c 0,0.97787 0.78687,1.76527 1.76475,1.76527 h 0.52916 c -0.97787,0 -1.76475,-0.7874 -1.76475,-1.76527 v -0.0589 c 0,-0.97788 0.78688,-1.76475 1.76475,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path4678"
+       style="display:inline;opacity:0.996;fill:#666666;fill-opacity:1;stroke-width:0.432369;stroke-linecap:round"
+       d="m -104.51468,225.89373 c -0.66799,0 -1.20551,0.78687 -1.20551,1.76475 v 0.0589 c 0,0.97787 0.53752,1.76527 1.20551,1.76527 h 0.36148 c -0.66799,0 -1.20552,-0.7874 -1.20552,-1.76527 v -0.0589 c 0,-0.97788 0.53753,-1.76475 1.20552,-1.76475 z"
+       inkscape:export-filename="D:\Git\roboKeeper\Assets\Objects\gripper_mid_down_part.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
